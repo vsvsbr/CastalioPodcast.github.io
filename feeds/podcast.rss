@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>Castálio Podcast</title><link>http://castalio.info/</link><description></description><lastBuildDate>Fri, 21 Aug 2015 20:52:43 -0000</lastBuildDate><language>pt-br</language><copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2011-2015 Og Maciel &amp; Elyézer Rezende</copyright><itunes:explicit>No</itunes:explicit><itunes:subtitle>Um podcast inspirado para castálio</itunes:subtitle><itunes:author>Og Maciel</itunes:author><itunes:summary></itunes:summary><itunes:image href="http://castalio.info/images/castalio-podcast-square.png"></itunes:image><itunes:category text="Technology"><itunes:category text="Podcasting"></itunes:category></itunes:category><item><guid>http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Thiago Perrotta - Leitura e Tecnologia" src="http://castalio.info/images/thiagoperrotta.png" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast!</p>
+<p>Nós sabemos que ficamos um tempo sem publicar um episódio, mas como você já deve saber, não conseguimos devido ao trabalho e, também, por alguns desencontros de agenda com as pessoas que gostaríamos de conversar. Felizmente hoje vamos quebrar este gelo!</p>
+<p>Mas antes, durante este período, foi publicado dois artigos com sugestões e comentários sobre livros. Se você perdeu, dá uma olhada nos artigos <a class="reference external" href="http://castalio.info/livros-marco-de-2015.html">Livros - Março de 2015</a> e <a class="reference external" href="http://castalio.info/livros-abril-de-2015.html">Livros - Abril de 2015</a> e anota os livros que deseja ler.</p>
+<p>Não deixe a sua lista de livros para ler de lado, pois, no episódio de hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros. Se você é como o Elyézer, que está buscando novamente ler todos os dias, você irá curtir a conversa e as dicas.</p>
+<p>Além das dicas, falamos sobre o <a class="reference external" href="https://www.goodreads.com/">GoodReads</a> que ajuda a guardar os livros que você já leu e pretende ler. Você também pode atualizar o seu progresso a medida que está lendo um ou mais livros. Todos nós temos um perfil, e a vantagem é que assim podemos ver o que os outros estão lendo e encontrar livros interessantes.</p>
+]]></description><pubDate>Sun, 31 May 2015 00:00:00 -0400</pubDate><title>Episódio 66: Thiago Perrotta - Leitura e Tecnologia</title><itunes:summary>Hoje, conversamos com o Thiago Perrotta. Ele e o Og nos contam como iniciaram e se apaixonaram pela leitura. O bate-papo foi bastante interessante e, com várias dicas de como adquirir o hábito de leitura e ler muitos livros.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-66-thiago-perrotta-leitura-e-tecnologia.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-66/castalio-podcast-66.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-65-gustavo-sverzut-barbieri-profusion-e-enlightenment.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Gustavo Sverzut Barbieri - ProFUSION e Enlightenment" src="http://castalio.info/images/gustavobarbieri.jpg" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Primeiramente gostaríamos de agradecer a recomendação do Ricardo Wellington de Fortaleza (CE) que recomendou conversarmos com o Gustavo Barbieri. O nosso entrevistado de hoje participa ativamente do desenvolvimento do <a class="reference external" href="http://www.enlightenment.org/">Enlightenment</a>, é um dos principais desenvolvedores do binding da <a class="reference external" href="http://www.enlightenment.org/p.php?p=about/efl">EFL</a> (Enlightenment Foundation Libraries) para Python. E, também, foi sócio da <a class="reference external" href="http://profusion.mobi/">ProFUSION</a>, uma empresa de desenvolvimento para dispositivos móveis que foi comprada pela Intel em 2012.</p>
+<p>Durante nossa conversa o Gustavo nos contou como iniciou o seu envolvimento com o projeto Enlightenment e com a EFL. Foi devido ao seu envolvimento com a EFL que surgiram os <a class="reference external" href="https://pypi.python.org/pypi/python-efl">bindings para Python</a>.</p>
+<p>Ele nos contou como a ProFUSION foi criada e como ele conseguiu trabalhar em projetos bastante interessantes. Apesar de ter apanhado um pouco no início com relação a contratos, a ProFUSION atuou em parceria com empresas maiores obtendo sucesso nos projetos desenvolvidos. Fiquem atentos pois ele deu algumas dicas de como conseguir o espaço necessário para se destacar e conseguir boas oportunidades.</p>
+<p>Conversamos também sobre o início da TV Digital no Brasil e porque ele optou por utilizar o Enlightenment em um projeto de interface gráfica para um <a class="reference external" href="https://pt.wikipedia.org/wiki/Set-top_box">Set-top box</a>. Além disso ele esclarece as diferenças entre as tecnologias utilizadas em um projeto deste tipo de aparelho.</p>
+]]></description><pubDate>Sun, 15 Mar 2015 00:00:00 -0400</pubDate><title>Episódio 65: Gustavo Sverzut Barbieri - ProFUSION e Enlightenment</title><itunes:summary>Neste episódio entrevistamos o Gustavo Barbieri,
+conversamos sobre sua empresa ProFUSION que foi
+comprada pela Intel em 2012, além de seu
+envolvimento no projeto Enlightenment, e finalmente
+sobre o seu Top 5.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-65-gustavo-sverzut-barbieri-profusion-e-enlightenment.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-65/castalio-podcast-65.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-64-thiago-avelino-openmining-e-sambaporno.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Thiago Avelino - vim-bootstrap" src="http://castalio.info/images/thiagoavelino.png" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Neste episódio concluímos nossa entrevista com o Thiago Avelino, desta vez conversando sobre seu projeto <a class="reference external" href="http://openmining.io">OpenMining</a>, que é um software de <a class="reference external" href="http://pt.wikipedia.org/wiki/Intelig%C3%AAncia_empresarial">Business Intelligence</a> (Inteligência empresarial) para a criação de cubos <a class="reference external" href="https://gist.github.com/elyezer/pt.wikipedia.org/wiki/OLAP">OLAP</a> multi-dimensionáis, usando <a class="reference external" href="http://www.numpy.org/">Numpy</a>, <a class="reference external" href="http://www.scipy.org/">Scipy</a>, <a class="reference external" href="http://pandas.pydata.org/">Pandas</a> entre outros.</p>
+<p>Conversamos sobre como ele aprendeu a melhorar a performance do <a class="reference external" href="http://www.sambaporno.com">SambaPorno</a> (<strong>ATENÇÃO</strong>: Conteúdo Pornográfico <strong>EXPLÍCITO</strong>) que hoje é um site gerando <strong>55 milhões de visitas diárias</strong> e trazendo uma boa renda!</p>
+<p>Também falamos sobre sua experiência vendendo uma &quot;startup&quot; em <strong>New Jersey</strong>, um livro que está escrevendo sobre <a class="reference external" href="http://bottlepy.org/docs/dev/index.html">Bottle</a> e finalmente sobre o seu <strong>Top 5</strong>!</p>
+<p>Como sempre, agradecemos todos os comentários que recebemos pois sua participação é muito importante para o crescimento do podcast, e não esqueça de deixar seu comentário pelo <a class="reference external" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197">iTunes</a> para nos ajudar a destacar o podcast.</p>
+]]></description><pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate><title>Episódio 64: Thiago Avelino - OpenMining e SambaPorno</title><itunes:summary>Neste episódio concluímos nossa entrevista com o Thiago
+Avelino, desta vez conversando sobre seu projeto
+OpenMining, fazendo dinheiro com o SambaPorno, sua
+experiência vendendo uma "startup" em New Jersey, e
+finalmente sobre o seu Top 5!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-64-thiago-avelino-openmining-e-sambaporno.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-64/castalio-podcast-64.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-63-thiago-avelino-vim-bootstrap-e-beerblogging.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Thiago Avelino - vim-bootstrap" src="http://castalio.info/images/thiagoavelino.png" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Primeiramente gostaríamos de agradecer a todos que curtiram a <a class="reference external" href="https://www.facebook.com/castaliopod">Página do Castálio no Facebook</a>. Se você ainda não curte, corre lá e curta agora mesmo.</p>
+<p>O entrevistado de hoje é o <strong>Thiago Avelino</strong>, criador do <a class="reference external" href="http://vim-bootstrap.com/">vim-bootstrap</a>, um projeto que já tinha sido mencionado antes no <a class="reference external" href="http://castalio.info/episodio-55-editor-vim.html">Episódio 55</a> sobre o editor Vim, que te ajuda a gerar um arquivo de configurações que inclui um monte de recursos e firulas. Tudo isso é feito de forma bem simples, e tudo que você precisa fazer é navegar até o site, clicar em algumas opções, e pronto! Depois é só salvar o arquivo gerado no seu sistema e iniciar o Vim para ativar o processo de configuração automática.</p>
+<p>Neste episódio conversamos sobre como o projeto começou, quais tecnologias são utilizadas no projeto e como ele funciona internamente. Também veremos alguns plugins que o <a class="reference external" href="http://vim-bootstrap.com/">vim-bootstrap</a> instala para você automaticamente.</p>
+<p>O <a class="reference external" href="http://vim-bootstrap.com/">vim-bootstrap</a> utiliza o <a class="reference external" href="https://github.com/Shougo/neobundle.vim">NeoBundle</a> para gerenciar os plugins que ele instala, por isso, aproveitamos o assunto e conversamos um pouco mais sobre os seus benefícios. Além de falarmos sobre o editor vim e alguns usos diferentes de editar códigos fontes de programas e também o editor <a class="reference external" href="http://neovim.org/">NeoVim</a> que é um fork do vim com melhorias como a utilização I/O assíncrona.</p>
+]]></description><pubDate>Sun, 15 Feb 2015 00:00:00 -0500</pubDate><title>Episódio 63: Thiago Avelino - vim-bootstrap e BeerBlogging</title><itunes:summary>O entrevistado de hoje é o Thiago Avelino, criador
+do vim-bootstrap, um projeto que já tinha sido
+mencionado antes no Episódio 55 sobre o editor Vim.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-63-thiago-avelino-vim-bootstrap-e-beerblogging.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-63/castalio-podcast-63.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-62-diego-rodrigo-santos-sobrecervejas.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Diego Rodrigo Santos - SobreCervejas" src="http://castalio.info/images/diegorodrigosantos.jpg" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>O assunto do episódio de hoje é um pouco diferente dos episódios antigos, mas na minha opinião não deixa de ser super interessante: Cervejas!!!</p>
+<p>Eu descobri o <a class="reference external" href="http://instagram.com/sobrecervejas/">SobreCervejas</a> meio que por acaso um dia, quando eu olhava posts aleatórios no <a class="reference external" href="http://instagram.com/">Instagram</a>. No meio de um monte de selfies e fotos meio que sem muito sentido, eis que me deparei com uma foto de uma cerveja com uma aparência bem atraente :) Cliquei na foto e fui surpreendido por uma resenha super profissional que apresentava o perfil completo da cerveja. Fiquei curioso a fui olhar as outras fotos que mostraram o mesmo resultado: fotos muito bem tiradas com resenhas super informativas!</p>
+]]></description><pubDate>Sun, 01 Feb 2015 00:00:00 -0500</pubDate><title>Episódio 62: Diego Rodrigo Santos - SobreCervejas</title><itunes:summary>O assunto do episódio de hoje é um pouco diferente dos
+episódios antigos, mas na minha opinião não deixa de ser
+super interessante: Cervejas!!!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-62-diego-rodrigo-santos-sobrecervejas.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-62/castalio-podcast-62.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-61-humberto-augusto-piovesana-zanetti-smart-braille.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Humberto Zanetti - Smart Braille" src="http://castalio.info/images/humbertozanetti.jpg" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Primeiramente, eu gostaria de agradecer a todos que passaram por aqui e
+deixaram seus comentários, e quem também deu um feedback pelo Twitter.</p>
+<p>Gostaria também agradecer o <a class="reference external" href="http://www.quartoestudio.com/">Evandro Pastor</a> pelo novo logotipo e página de erro, e
+o <a class="reference external" href="https://www.google.com/+MagnunLeno">Magnun Leno</a> do <a class="reference external" href="http://mindbending.org/pt/category/hack-n-cast">Hack'n'Cast</a> por todos os
+patches que foram enviados para melhorar o layout e visual do site.</p>
+<p>Também temos uma página no <a class="reference external" href="https://www.facebook.com/castaliopod">Facebook</a> e caso você queira passar por lá
+e deixar um recado, fiquem a vontade ;)</p>
+<p>Finalmente, eu gostaria de lembrar a todos que nos acompanham pelo
+<a class="reference external" href="https://itunes.apple.com/us/podcast/castalio-podcast/id446259197">iTunes</a> para deixar um feedback por lá para nos ajudar a destacar o
+podcast.</p>
+<p>O entrevistado de hoje é o Humberto Zanetti, professor e coordenador
+da ETEC de Itatiba e professor na Fatec de Jundiaí.</p>
+]]></description><pubDate>Sun, 18 Jan 2015 00:00:00 -0500</pubDate><title>Episódio 61: Humberto Augusto Piovesana Zanetti - Smart Braille</title><itunes:summary>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Primeiramente, eu gostaria de agradecer a todos que passaram por aqui e deixaram seus comentários, e quem também deu um feedback pelo Twitter. Gostaria também agradecer o Evandro Pastor pelo novo logotipo e página de erro, e o Magnun Leno do Hack'n'Cast por todos os patches que foram enviados para melhorar o layout e visual do site. Também temos uma página no Facebook e caso você queira passar por lá e deixar um recado, fiquem a vontade ;) Finalmente, eu gostaria de lembrar a todos que nos acompanham pelo iTunes para deixar um feedback por lá para nos ajudar a destacar o podcast. O entrevistado de hoje é o Humberto Zanetti, professor e coordenador da ETEC de Itatiba e professor na Fatec de Jundiaí.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-61-humberto-augusto-piovesana-zanetti-smart-braille.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-61/castalio-podcast-61.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-60-andrews-medina-splinter.html</guid><description><![CDATA[<div class="figure align-left" style="width: 40%">
+<img alt="Andrews Medina - Splinter" src="http://castalio.info/images/andrewsmedina.jpeg" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>, o primeiro de 2015!!!</p>
+<p>No <a class="reference external" href="http://castalio.info/episodio-56-splinter.html">Episódio 56</a> nós conversamos sobre o projeto <a class="reference external" href="https://github.com/cobrateam/splinter">Splinter</a> e como usá-lo para a automatização de testes para interfaces gráficas web. Desta vez conseguimos trazer o <strong>Andrews Medina</strong> da <strong>Globo.com</strong>, um dos primeiros desenvolvedores do Splinter, para nos contar um pouco sobre a história do projeto.</p>
+<p>Apesar de hoje passar mais tempo focando em seu novo projeto, <a class="reference external" href="https://github.com/tsuru/tsuru">Tsuru</a>, o Andrews ainda acompanha e ajuda a manter o Splinter e ultimamente está responsável por arrumar uns probleminhas que estão causando os testes do próprio projeto falharem pelo <a class="reference external" href="http://travis-ci.org/cobrateam/splinter">Travis</a>.</p>
+]]></description><pubDate>Sun, 04 Jan 2015 00:00:00 -0500</pubDate><title>Episódio 60: Andrews Medina - Splinter</title><itunes:summary>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast, o primeiro de 2015!!! No Episódio 56 nós conversamos sobre o projeto Splinter e como usá-lo para a automatização de testes para interfaces gráficas web. Desta vez conseguimos trazer o Andrews Medina da Globo.com, um dos primeiros desenvolvedores do Splinter, para nos contar um pouco sobre a história do projeto. Apesar de hoje passar mais tempo focando em seu novo projeto, Tsuru, o Andrews ainda acompanha e ajuda a manter o Splinter e ultimamente está responsável por arrumar uns probleminhas que estão causando os testes do próprio projeto falharem pelo Travis.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-60-andrews-medina-splinter.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-60/castalio-podcast-60.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-59-episodio-de-natal-parte-3.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Episódio de Natal - Parte 3" src="http://castalio.info/images/cheers.png" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Na semana passada, junto com o <a class="reference external" href="https://twitter.com/rafaelrosafu">Rafael Rosa Fu</a> do <a class="reference external" href="http://grokpodcast.com">Grok Podcast</a> e
+<a class="reference external" href="https://twitter.com/mind_bend">Magnun Leno</a> do <a class="reference external" href="http://mindbending.org/pt/category/hack-n-cast">Hack 'n' Cast</a> , nós fizemos o que pode ter sido o
+primeiro episódio open source do Brasil? A idéia foi a seguinte:
+existem varias pessoas que fazem podcasts ou gostariam de fazer um mas
+não sabem como começar ou quais ferramentas usar ou talvez onde/como
+publicar os arquivos de áudio. Então decidimos fazer um episódio para
+falar sobre estes temas, e depois o áudio (sem edição) foi publicado
+dentre os participantes para que cada um possa então editar e publicar
+o conteúdo da forma e quando quiser. Viva open source!</p>
+]]></description><pubDate>Mon, 22 Dec 2014 00:00:00 -0500</pubDate><title>Episódio 59: Episódio de Natal - Parte 3</title><itunes:summary>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Na semana passada, junto com o Rafael Rosa Fu do Grok Podcast e Magnun Leno do Hack 'n' Cast , nós fizemos o que pode ter sido o primeiro episódio open source do Brasil? A idéia foi a seguinte: existem varias pessoas que fazem podcasts ou gostariam de fazer um mas não sabem como começar ou quais ferramentas usar ou talvez onde/como publicar os arquivos de áudio. Então decidimos fazer um episódio para falar sobre estes temas, e depois o áudio (sem edição) foi publicado dentre os participantes para que cada um possa então editar e publicar o conteúdo da forma e quando quiser. Viva open source!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-59-episodio-de-natal-parte-3.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-59/castalio-podcast-59.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-58-episodio-de-natal-parte-2.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Episódio de Natal - Parte 2" src="http://castalio.info/images/audacity.png" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Na semana passada, junto com o <a class="reference external" href="https://twitter.com/rafaelrosafu">Rafael Rosa Fu</a> do <a class="reference external" href="http://grokpodcast.com">Grok Podcast</a> e
+<a class="reference external" href="https://twitter.com/mind_bend">Magnun Leno</a> do <a class="reference external" href="http://mindbending.org/pt/category/hack-n-cast">Hack 'n' Cast</a> , nós fizemos o que pode ter sido o
+primeiro episódio open source do Brasil? A idéia foi a seguinte:
+existem varias pessoas que fazem podcasts ou gostariam de fazer um mas
+não sabem como começar ou quais ferramentas usar ou talvez onde/como
+publicar os arquivos de áudio. Então decidimos fazer um episódio para
+falar sobre estes temas, e depois o áudio (sem edição) foi publicado
+dentre os participantes para que cada um possa então editar e publicar
+o conteúdo da forma e quando quiser. Viva open source!</p>
+]]></description><pubDate>Sun, 21 Dec 2014 00:00:00 -0500</pubDate><title>Episódio 58: Episódio de Natal - Parte 2</title><itunes:summary>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Na semana passada, junto com o Rafael Rosa Fu do Grok Podcast e Magnun Leno do Hack 'n' Cast , nós fizemos o que pode ter sido o primeiro episódio open source do Brasil? A idéia foi a seguinte: existem varias pessoas que fazem podcasts ou gostariam de fazer um mas não sabem como começar ou quais ferramentas usar ou talvez onde/como publicar os arquivos de áudio. Então decidimos fazer um episódio para falar sobre estes temas, e depois o áudio (sem edição) foi publicado dentre os participantes para que cada um possa então editar e publicar o conteúdo da forma e quando quiser. Viva open source!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-58-episodio-de-natal-parte-2.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-58/castalio-podcast-58.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-57-episodio-de-natal-parte-1.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Episódio de Natal - Parte 1" src="http://castalio.info/images/natal.jpg" />
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio do <strong>Castálio Podcast</strong>!</p>
+<p>Desta vez nós temos um episódio super especial que é o nosso presente
+de natal para todos vocês que tem nos acompanhado e apoiado desde o
+começo!</p>
+<p>Na semana passada, junto com o <a class="reference external" href="https://twitter.com/rafaelrosafu">Rafael Rosa Fu</a> do <a class="reference external" href="http://grokpodcast.com">Grok Podcast</a> e
+<a class="reference external" href="https://twitter.com/mind_bend">Magnun Leno</a> do <a class="reference external" href="http://mindbending.org/pt/category/hack-n-cast">Hack 'n' Cast</a> , nós fizemos o que pode ter sido o
+primeiro episódio open source do Brasil? A idéia foi a seguinte:
+existem varias pessoas que fazem podcasts ou gostariam de fazer um mas
+não sabem como começar ou quais ferramentas usar ou talvez onde/como
+publicar os arquivos de áudio. Então decidimos fazer um episódio para
+falar sobre estes temas, e depois o áudio (sem edição) foi publicado
+dentre os participantes para que cada um possa então editar e publicar
+o conteúdo da forma e quando quiser. Viva open source!</p>
+]]></description><pubDate>Sat, 20 Dec 2014 00:00:00 -0500</pubDate><title>Episódio 57: Episódio de Natal - Parte 1</title><itunes:summary>Olá pessoal e sejam bem-vindos à mais um episódio do Castálio Podcast! Desta vez nós temos um episódio super especial que é o nosso presente de natal para todos vocês que tem nos acompanhado e apoiado desde o começo! Na semana passada, junto com o Rafael Rosa Fu do Grok Podcast e Magnun Leno do Hack 'n' Cast , nós fizemos o que pode ter sido o primeiro episódio open source do Brasil? A idéia foi a seguinte: existem varias pessoas que fazem podcasts ou gostariam de fazer um mas não sabem como começar ou quais ferramentas usar ou talvez onde/como publicar os arquivos de áudio. Então decidimos fazer um episódio para falar sobre estes temas, e depois o áudio (sem edição) foi publicado dentre os participantes para que cada um possa então editar e publicar o conteúdo da forma e quando quiser. Viva open source!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-57-episodio-de-natal-parte-1.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-57/castalio-podcast-57.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-56-splinter.html</guid><description><![CDATA[<p>No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o
+<strong>Splinter</strong>, uma ferramente muito interessante para quem trabalha com a
+<strong>automatização</strong> de aplicativos web com <strong>python</strong>.</p>
+<p>Na Red Hat, eu e Elyézer trabalhamos na automatização de testes
+funcionais do produto <strong>Satellite 6</strong>, certificando que todos recursos
+expostos pelas camadas de API, CLI (linha de comando) e UI (interface
+web gráfica) funcionam conforme as expectativas do design. Uma opção
+para efetuar estes testes seria fazer um mutirão no trabalho e testar
+tudo manualmente... mas isso é coisa de iniciante, e todo engenheiro de
+automatização que se preze eventualmente tenta automatizar tudo.</p>
+<p>Apesar de usarmos o <strong>Selenium</strong> para efetuar testes de interface
+gráfica, o <strong>Splinter</strong> é uma excelente alternativa para quem deseja
+experimentar uma forma bem simples e fácil de interagir com um navegador
+web (o tal do 'browser'), e é justamente por causa desta facilidade que
+o episódio de hoje é dedicado ao <strong>Splinter</strong>.</p>
+]]></description><pubDate>Sun, 07 Dec 2014 00:00:00 -0500</pubDate><title>Episódio 56: Splinter</title><itunes:summary>No episódio de hoje, eu e o Elyézer conversamos um pouco sobre o Splinter, uma ferramente muito interessante para quem trabalha com a automatização de aplicativos web com python. Na Red Hat, eu e Elyézer trabalhamos na automatização de testes funcionais do produto Satellite 6, certificando que todos recursos expostos pelas camadas de API, CLI (linha de comando) e UI (interface web gráfica) funcionam conforme as expectativas do design. Uma opção para efetuar estes testes seria fazer um mutirão no trabalho e testar tudo manualmente... mas isso é coisa de iniciante, e todo engenheiro de automatização que se preze eventualmente tenta automatizar tudo. Apesar de usarmos o Selenium para efetuar testes de interface gráfica, o Splinter é uma excelente alternativa para quem deseja experimentar uma forma bem simples e fácil de interagir com um navegador web (o tal do 'browser'), e é justamente por causa desta facilidade que o episódio de hoje é dedicado ao Splinter.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-56-splinter.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-56/castalio-podcast-56.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-55-editor-vim.html</guid><description><![CDATA[<div class="figure">
+<img alt="Editor Vim" src="http://castalio.info/images/episodio-55-vim.png" />
+<p class="caption">Editor Vim</p>
+</div>
+<p>Depois de um longo e tenebroso inverno, estamos de volta ao&nbsp;ar, desta
+vez para ficar e com algumas novidades.Mas primeiramente, uma explicação
+sobre o sumiço súbito.</p>
+<p>O processo de planejamento, gravação e edição de um podcast requer
+muitas horas e perseverança para poder correr atrás de assuntos (ou no
+caso deste podcast, entrevistados), pesquisar para ter um bom
+&quot;background&quot;, e horas e horas editando arquivos de áudio para poder
+fornecer algo de (espero) boa qualidade para vocês que nos honram com
+sua presença e apoio. Devido a algumas mudanças no trabalho (algumas
+promoções com mais responsabilidades e longas horas) e na vida pessoal
+(o nascimento de minha terceira filha, Iza), eu senti que não teria mais
+o tempo livre necessário&nbsp;para continuar o podcast sem que o mesmo não
+perdesse a qualidade das entrevistas ou áudio. Foi muito difícil
+simplesmente abandonar o projeto às moscas, sem sequer dar alguma
+explicação a vocês que sempre acompanhou o podcast... por isso, quero
+então pedir 1,000 desculpas e que perdoem esta minha falta de
+profissionalismo.</p>
+<p>Durante os muitos meses que o podcast ficou parado, foram muitos os
+e-mails e comentários de amigos e ouvintes perguntando se o projeto
+estava realmente morto ou se existia alguma chance de trazê-lo de volta
+ao&nbsp;ar, e eu sempre respondi que estava sem tempo livre, nem mesmo para
+editar o áudio, então a resposta era não.</p>
+]]></description><pubDate>Sun, 23 Nov 2014 18:44:00 -0500</pubDate><title>Episódio 55: Editor Vim</title><itunes:summary>Editor Vim Depois de um longo e tenebroso inverno, estamos de volta ao ar, desta vez para ficar e com algumas novidades.Mas primeiramente, uma explicação sobre o sumiço súbito. O processo de planejamento, gravação e edição de um podcast requer muitas horas e perseverança para poder correr atrás de assuntos (ou no caso deste podcast, entrevistados), pesquisar para ter um bom "background", e horas e horas editando arquivos de áudio para poder fornecer algo de (espero) boa qualidade para vocês que nos honram com sua presença e apoio. Devido a algumas mudanças no trabalho (algumas promoções com mais responsabilidades e longas horas) e na vida pessoal (o nascimento de minha terceira filha, Iza), eu senti que não teria mais o tempo livre necessário para continuar o podcast sem que o mesmo não perdesse a qualidade das entrevistas ou áudio. Foi muito difícil simplesmente abandonar o projeto às moscas, sem sequer dar alguma explicação a vocês que sempre acompanhou o podcast... por isso, quero então pedir 1,000 desculpas e que perdoem esta minha falta de profissionalismo. Durante os muitos meses que o podcast ficou parado, foram muitos os e-mails e comentários de amigos e ouvintes perguntando se o projeto estava realmente morto ou se existia alguma chance de trazê-lo de volta ao ar, e eu sempre respondi que estava sem tempo livre, nem mesmo para editar o áudio, então a resposta era não.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-55-editor-vim.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-55/castalio-podcast-55.mp3"></enclosure></item><item><guid>http://castalio.info/enrico-nicoletto-e-rafael-ferreira-projeto-gnome.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Projeto GNOME" src="http://castalio.info/images/gnome.png" />
+<p class="caption">Projeto GNOME</p>
+</div>
+<p>Depois de vários meses sem &quot;fora do ar&quot;, tenho o grande prazer em trazer
+mais um episódio sobre o projeto <strong>GNOME</strong>! Desta vez convidei o
+<strong>Enrico Nicoletto</strong> e <strong>Rafael Ferreira</strong> para conversar sobre o
+processo de traduções, que mais uma vez promete entregar mais uma versão
+completamente traduzida para o nosso bom português!</p>
+<p>A entrevista aconteceu &quot;na estrada&quot; quando eu estava voltando de viagem,
+e acabei gravando o episódio de um hotel lá em Richmond no estado da
+Virgínia. Mesmo com alguns problemas iniciais (teve uma hora que minha
+conexão caiu, mas eu consegui voltar logo), eu consegui bater um papo
+super legal com o Enrico e Rafael sobre como todo o processo de
+traduções, desde como eles entraram para a equipe oficial, até como
+chegaram a ser os administradores da equipe brasileira.</p>
+<p>O episódio todo ficou com um pouco mais de 30 minutos, mas para quem quizer
+assistir o <a class="reference external" href="http://bit.ly/136X3jF">vídeo</a> vocês poderão escutar sobre outros temas que acabaram
+ficando de fora na hora da edição (devido ao tamanho final do podcast), como
+seus planos para o futuro da equipe.</p>
+]]></description><pubDate>Tue, 03 Sep 2013 01:11:00 -0400</pubDate><title>Enrico Nicoletto e Rafael Ferreira: Projeto GNOME</title><itunes:summary>Projeto GNOME Depois de vários meses sem "fora do ar", tenho o grande prazer em trazer mais um episódio sobre o projeto GNOME! Desta vez convidei o Enrico Nicoletto e Rafael Ferreira para conversar sobre o processo de traduções, que mais uma vez promete entregar mais uma versão completamente traduzida para o nosso bom português! A entrevista aconteceu "na estrada" quando eu estava voltando de viagem, e acabei gravando o episódio de um hotel lá em Richmond no estado da Virgínia. Mesmo com alguns problemas iniciais (teve uma hora que minha conexão caiu, mas eu consegui voltar logo), eu consegui bater um papo super legal com o Enrico e Rafael sobre como todo o processo de traduções, desde como eles entraram para a equipe oficial, até como chegaram a ser os administradores da equipe brasileira. O episódio todo ficou com um pouco mais de 30 minutos, mas para quem quizer assistir o vídeo vocês poderão escutar sobre outros temas que acabaram ficando de fora na hora da edição (devido ao tamanho final do podcast), como seus planos para o futuro da equipe.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/enrico-nicoletto-e-rafael-ferreira-projeto-gnome.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-54/castalio-podcast-54.mp3"></enclosure></item><item><guid>http://castalio.info/everaldo-canuto-toca-do-canuto.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Everaldo Canuto: Toca do Canuto" src="http://castalio.info/images/everaldocanuto.png" />
+<p class="caption">Everaldo Canuto: Toca do Canuto</p>
+</div>
+<p>Eu conheci o <strong>Everaldo</strong> em uma tarde super calorenta durante a
+abertura do evento <strong>GUADEC</strong> nas <strong>Ilhas Canárias</strong>. O mais
+interessante foi que não demorou mais que um dia para que nossa amizade
+se tornasse igual aquelas amizades que fazemos quando criança... aquelas
+pessoas que não importa o tempo ou a distância, você sempre fica feliz
+de encontrar e bater um papo!</p>
+<p>O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar
+lado a lado com o <strong>Miguel de Icaza</strong>, um dos fundadores do <strong>Projeto GNOME</strong>,
+figura quase que mitológica do mundo do software livre e hoje empresário com
+várias companhias de sucesso em seu histórico! Ele também trabalhava com
+a tecnologia .NET numa época quando qualquer coisa que fosse remotamente
+relacianada à Microsoft era motivo para perseguição e &quot;trollage&quot; pelos
+apoiadores mais zelosos do Linux.  Durante grande parte de nosso bate-papo,
+conversamos sobre como que ele foi parar na <strong>Novell</strong> trabalhando para
+a equipe do Miguel, como era o dia-a-dia lidando com o sentimento
+anti-&nbsp;Microsoft, quais tecnologias ele recomenda para quem está começando
+a trabalhar na área de TI, o &quot;problema&quot; do <strong>Java</strong>, e sobre seu mais novo
+projeto, <a class="reference external" href="http://www.youtube.com/user/tocadocanuto?feature=g-subs-u">Toca do Canuto</a>.</p>
+]]></description><pubDate>Mon, 18 Mar 2013 02:54:00 -0400</pubDate><title>Everaldo Canuto: Toca do Canuto</title><itunes:summary>Everaldo Canuto: Toca do Canuto Eu conheci o Everaldo em uma tarde super calorenta durante a abertura do evento GUADEC nas Ilhas Canárias. O mais interessante foi que não demorou mais que um dia para que nossa amizade se tornasse igual aquelas amizades que fazemos quando criança... aquelas pessoas que não importa o tempo ou a distância, você sempre fica feliz de encontrar e bater um papo! O Everaldo teve uma das oportunidades que eu sempre sonhei em ter: trabalhar lado a lado com o Miguel de Icaza, um dos fundadores do Projeto GNOME, figura quase que mitológica do mundo do software livre e hoje empresário com várias companhias de sucesso em seu histórico! Ele também trabalhava com a tecnologia .NET numa época quando qualquer coisa que fosse remotamente relacianada à Microsoft era motivo para perseguição e "trollage" pelos apoiadores mais zelosos do Linux. Durante grande parte de nosso bate-papo, conversamos sobre como que ele foi parar na Novell trabalhando para a equipe do Miguel, como era o dia-a-dia lidando com o sentimento anti- Microsoft, quais tecnologias ele recomenda para quem está começando a trabalhar na área de TI, o "problema" do Java, e sobre seu mais novo projeto, Toca do Canuto.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/everaldo-canuto-toca-do-canuto.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-53/castalio-podcast-53.mp3"></enclosure></item><item><guid>http://castalio.info/alexandre-gaigalas-yahoo.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Alexandre Gaigalas: Yahoo" src="http://castalio.info/images/alexandregaigalas.jpg" />
+<p class="caption">Alexandre Gaigalas: Yahoo</p>
+</div>
+<p>Seja bem-vindo à mais um episódio, desta vez com o <a class="reference external" href="http://about.me/alganet">Alexandre Gaigalas</a> que
+trabalha como <strong>engenheiro de software</strong> da <strong>Yahoo</strong> no Brasil! Durante nosso
+bate-papo conversamos sobre o que ele faz na Yahoo, em quais projetos que
+trabalha, e acabei descobrindo que ele é mais um exemplo de uma pessoa que teve
+seu trabalho perante uma comunidade de software livre reconhecido, levando-o
+a ser indicado para trabalhar em uma companhia de nome! Conversamos sobre
+o recente anúncio que a <strong>CEO</strong> <a class="reference external" href="https://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Mayer</a> fez, declatando que não se
+poderá mais trabalhar remotamente na Yahoo, sobre o efeito que isso teve na
+moral dos empregados, e como que a sua vinda está transformando a companhia em
+uma empresa mais moderna e com mais atenção à qualidade de seus produtos
+e bem-estar de seus empregados.</p>
+<p>Mais uma coisa bacana que aconteceu durante a gravação foi um commit que
+o Alexandre fez ao-vivo para o código do <strong>Respect Doc</strong> em <a class="reference external" href="https://github.com/Respect/Doc/commit/c1b6a473c62253725321eeb4a4125e3c25e709f1">homenagem</a> ao
+podcast! :)</p>
+]]></description><pubDate>Sun, 03 Mar 2013 21:48:00 -0500</pubDate><title>Alexandre Gaigalas: Yahoo</title><itunes:summary>Alexandre Gaigalas: Yahoo Seja bem-vindo à mais um episódio, desta vez com o Alexandre Gaigalas que trabalha como engenheiro de software da Yahoo no Brasil! Durante nosso bate-papo conversamos sobre o que ele faz na Yahoo, em quais projetos que trabalha, e acabei descobrindo que ele é mais um exemplo de uma pessoa que teve seu trabalho perante uma comunidade de software livre reconhecido, levando-o a ser indicado para trabalhar em uma companhia de nome! Conversamos sobre o recente anúncio que a CEO Marissa Mayer fez, declatando que não se poderá mais trabalhar remotamente na Yahoo, sobre o efeito que isso teve na moral dos empregados, e como que a sua vinda está transformando a companhia em uma empresa mais moderna e com mais atenção à qualidade de seus produtos e bem-estar de seus empregados. Mais uma coisa bacana que aconteceu durante a gravação foi um commit que o Alexandre fez ao-vivo para o código do Respect Doc em homenagem ao podcast! :)</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/alexandre-gaigalas-yahoo.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-52/castalio-podcast-52.mp3"></enclosure></item><item><guid>http://castalio.info/edicao-de-2-anos-og-maciel-red-hat.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Og Maciel: Red Hat" src="http://castalio.info/images/ogmaciel.jpg" />
+<p class="caption">Og Maciel: Red Hat</p>
+</div>
+<p>Usando um velho cliché, realmente parece que foi somente ôntem que eu e
+o Evandro, um dia batendo papo pelo Skype, resolvemos iniciar um
+programa de podcast para entrevistar as personalidades do mundo de
+software livre brasileiro, e tentar conhecer um pouco mais sobre os
+&quot;bastidores&quot; de suas vidas, seus gostos e desgostos. A idéia era fazer
+algo diferente e tentar passar para os ouvintes um pouco das coisas que
+afetaram a vida das pessoas que muitos só conhecem através de perfís
+online ou e-mails em listas de discussões... enfim, um podcast &quot;bom para
+castálio&quot;! Passados 50 episódios, no dia 16 de fevereiro este projeto
+completou <strong>2 anos de vida</strong>!</p>
+<p>Para comemorar este nosso marco histórico, resolvi atender os pedidos de alguns
+ouvintes e tentar novamente publicar uma entrevista comigo mesmo!  Para as
+pessoas que acompanham o podcast, vocês devem se lembrar que o nosso <a class="reference external" href="http://bit.ly/12YS1pU">episódio
+piloto</a> foi comigo também, numa época onde ainda estávamos explorando um
+formato e testando as tecnologias que iríamos usar. Naquela época nem existia
+o Top 5 ainda!  Então, uma vez que decidi fazer a entrevista &quot;Part 2&quot;, eu
+precisava encontrar alguém para me entrevistar, já que o Evandro não participa
+desde o terceiro episódio. Duas pessoas se prontificaram a desempenhar este
+papel, todos eles amigos que me conhecem há alguns anos e mais que capazes de
+fazer perguntas interessantes... e no final eu pedi ao meu amigo <strong>KurtKraut</strong>
+(que já foi entrevistado <a class="reference external" href="http://bit.ly/VAfGLG">aqui</a>) para me entrevistar.</p>
+<p>O nosso bate-papo, que foi publicado ao vivo pelo <a class="reference external" href="http://bit.ly/12MJKVZ">Youtube</a>, rolou por mais
+de 1 hora, e durante estes 60+ minutos conversamos sobre a origem do meu nome,
+como que eu vim parar nos Estados Unidos há 21 anos atrás, minha carreira como
+programador, minha vinda para a Carolina do Norte, sobre o Ubuntu, compilando
+kernels, trabalhando na Red Hat, privacidade, e meu Top 5!</p>
+]]></description><pubDate>Mon, 18 Feb 2013 16:15:00 -0500</pubDate><title>Edição de 2 Anos - Og Maciel: Red Hat</title><itunes:summary>Og Maciel: Red Hat Usando um velho cliché, realmente parece que foi somente ôntem que eu e o Evandro, um dia batendo papo pelo Skype, resolvemos iniciar um programa de podcast para entrevistar as personalidades do mundo de software livre brasileiro, e tentar conhecer um pouco mais sobre os "bastidores" de suas vidas, seus gostos e desgostos. A idéia era fazer algo diferente e tentar passar para os ouvintes um pouco das coisas que afetaram a vida das pessoas que muitos só conhecem através de perfís online ou e-mails em listas de discussões... enfim, um podcast "bom para castálio"! Passados 50 episódios, no dia 16 de fevereiro este projeto completou 2 anos de vida! Para comemorar este nosso marco histórico, resolvi atender os pedidos de alguns ouvintes e tentar novamente publicar uma entrevista comigo mesmo! Para as pessoas que acompanham o podcast, vocês devem se lembrar que o nosso episódio piloto foi comigo também, numa época onde ainda estávamos explorando um formato e testando as tecnologias que iríamos usar. Naquela época nem existia o Top 5 ainda! Então, uma vez que decidi fazer a entrevista "Part 2", eu precisava encontrar alguém para me entrevistar, já que o Evandro não participa desde o terceiro episódio. Duas pessoas se prontificaram a desempenhar este papel, todos eles amigos que me conhecem há alguns anos e mais que capazes de fazer perguntas interessantes... e no final eu pedi ao meu amigo KurtKraut (que já foi entrevistado aqui) para me entrevistar. O nosso bate-papo, que foi publicado ao vivo pelo Youtube, rolou por mais de 1 hora, e durante estes 60+ minutos conversamos sobre a origem do meu nome, como que eu vim parar nos Estados Unidos há 21 anos atrás, minha carreira como programador, minha vinda para a Carolina do Norte, sobre o Ubuntu, compilando kernels, trabalhando na Red Hat, privacidade, e meu Top 5!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/edicao-de-2-anos-og-maciel-red-hat.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-51/castalio-podcast-51.mp3"></enclosure></item><item><guid>http://castalio.info/luciano-ramalho-oficinas-turing.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Luciano Ramalho: Oficinas Turing" src="http://castalio.info/images/lucianoramalho.jpg" />
+<p class="caption">Luciano Ramalho: Oficinas Turing</p>
+</div>
+<p>Um dias destes eu estava procurando documentação sobre umas coisas da
+linguagem python quando me deparei com uma apresentação do <strong>Luciano
+Ramalho</strong>, o entrevistado deste episódio deste episódio. O que me chamou
+atenção não foi nem tanto a qualidade do material ou a didática do
+mesmo, mas sim o fato do autor ser brasileiro E por ter feito tudo em
+inglês. Claro que, se você vive no Brasil e trabalha ou convive com quem
+trabalha com python, o nome do Luciano não lhe deve ser estranho. Mas
+para mim, que moro há 21 anos no exterior, foi uma descoberta super
+maneira!</p>
+<p>Quanto mais eu pesquisei sobre ele, mais animado eu ficava em conhecer &quot;a
+pessoa por trás dos slides&quot; das apresentações <a class="reference external" href="https://speakerdeck.com/ramalho/python-encapsulation-with-descriptors">Python - Encapsulation with
+Descriptors</a> e <a class="reference external" href="https://speakerdeck.com/ramalho/iterators-and-generators-the-python-way">Iterators &amp; generators: the Python Way</a>.  Mais gostoso ainda
+foi descobrir que estas <strong>apresentações são inéditas</strong> no público brasileiro
+e serão apresentadas na <a class="reference external" href="https://us.pycon.org/2013/">PyCon</a> americana este ano!&nbsp;Durante nosso bate-papo,
+o Luciano me contou como que foi a criação da <a class="reference external" href="http://associacao.python.org.br">Associação Python Brasil</a>,
+quais foram seus primeiros objetivos e como foi o seu primeiro mandato como
+presidente da mesma. Também discutimos sobre os vários frameworks que existem
+para quem quer ser programador web com python, alguns fatos interessantes sobre
+o <strong>Zope</strong>, <strong>Plone</strong>, <strong>Flask</strong>, e <strong>Web2Py</strong>, e quais delas ele recomenda
+para quem está iniciando no mundo de programação.</p>
+]]></description><pubDate>Tue, 05 Feb 2013 03:47:00 -0500</pubDate><title>Luciano Ramalho: Oficinas Turing</title><itunes:summary>Luciano Ramalho: Oficinas Turing Um dias destes eu estava procurando documentação sobre umas coisas da linguagem python quando me deparei com uma apresentação do Luciano Ramalho, o entrevistado deste episódio deste episódio. O que me chamou atenção não foi nem tanto a qualidade do material ou a didática do mesmo, mas sim o fato do autor ser brasileiro E por ter feito tudo em inglês. Claro que, se você vive no Brasil e trabalha ou convive com quem trabalha com python, o nome do Luciano não lhe deve ser estranho. Mas para mim, que moro há 21 anos no exterior, foi uma descoberta super maneira! Quanto mais eu pesquisei sobre ele, mais animado eu ficava em conhecer "a pessoa por trás dos slides" das apresentações Python - Encapsulation with Descriptors e Iterators &amp; generators: the Python Way. Mais gostoso ainda foi descobrir que estas apresentações são inéditas no público brasileiro e serão apresentadas na PyCon americana este ano! Durante nosso bate-papo, o Luciano me contou como que foi a criação da Associação Python Brasil, quais foram seus primeiros objetivos e como foi o seu primeiro mandato como presidente da mesma. Também discutimos sobre os vários frameworks que existem para quem quer ser programador web com python, alguns fatos interessantes sobre o Zope, Plone, Flask, e Web2Py, e quais delas ele recomenda para quem está iniciando no mundo de programação.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/luciano-ramalho-oficinas-turing.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-50/castalio-podcast-50.mp3"></enclosure></item><item><guid>http://castalio.info/fabiano-fidencio-red-hat.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Fabiano Fidêncio: Red Hat" src="http://castalio.info/images/fabianofidencio.jpg" />
+<p class="caption">Fabiano Fidêncio: Red Hat</p>
+</div>
+<p>Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o <strong>Fabiano
+Fidêncio</strong>, recém contratado pela <strong>Red Hat</strong>! Durante nosso bate-papo
+o Fabiano conta como que ele aprendeu a programar &quot;de verdade&quot; na <a class="reference external" href="http://www.profusion.mobi/">ProFUSION</a>
+e como que&nbsp;de usuário <strong>GNOME</strong>, ele se transformou em desenvolvedor quando
+começou a trabalhar no <a class="reference external" href="https://live.gnome.org/Boxes">GNOME Boxes</a> e <a class="reference external" href="https://www.redhat.com/mailman/listinfo/libosinfo">libosinfo</a> pelo <strong>Google Summer of
+Code</strong>. Sua participação neste projeto foi muito interessante, já que ele teve
+de aproveitar um código base escrito por uma pessoa da Red Hat e refatorar para
+que ficasse mais limpo e genérico, algo que não é super fácil de fazer.
+O projeto acabou virando mais que um hobby, e devido ao seu trabalho o Fabiano
+acabou sendo contratado para trabalhar na Red Hat a partir de março! Não vou
+revelar qual o projeto que ele vai trabalhar (você vai ter de escutar
+o episódio), mas além de trabalho novo, ele também vai se mudar do Brasil para
+uma cidade européia, onde cerveja é mais barato que água!</p>
+]]></description><pubDate>Mon, 21 Jan 2013 02:04:00 -0500</pubDate><title>Fabiano Fidêncio: Red Hat</title><itunes:summary>Fabiano Fidêncio: Red Hat Para o primeiro episódio de 2013 eu tive o prazer de entrevistar o Fabiano Fidêncio, recém contratado pela Red Hat! Durante nosso bate-papo o Fabiano conta como que ele aprendeu a programar "de verdade" na ProFUSION e como que de usuário GNOME, ele se transformou em desenvolvedor quando começou a trabalhar no GNOME Boxes e libosinfo pelo Google Summer of Code. Sua participação neste projeto foi muito interessante, já que ele teve de aproveitar um código base escrito por uma pessoa da Red Hat e refatorar para que ficasse mais limpo e genérico, algo que não é super fácil de fazer. O projeto acabou virando mais que um hobby, e devido ao seu trabalho o Fabiano acabou sendo contratado para trabalhar na Red Hat a partir de março! Não vou revelar qual o projeto que ele vai trabalhar (você vai ter de escutar o episódio), mas além de trabalho novo, ele também vai se mudar do Brasil para uma cidade européia, onde cerveja é mais barato que água!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/fabiano-fidencio-red-hat.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-49/castalio-podcast-49.mp3"></enclosure></item><item><guid>http://castalio.info/julian-fernandes-ubuntu-br-sc.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Julian Fernandes: Ubuntu BR SC" src="http://castalio.info/images/julianfernandes.png" />
+<p class="caption">Julian Fernandes: Ubuntu BR SC</p>
+</div>
+<p>Demorou mais chegou!!! Devido a <a class="reference external" href="http://www.castalio.info/aviso-aos-navegantes/">problemas pessoais</a> eu infelizmente fiquei
+um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi
+super difícil para mim deixar de publicar a cada 2 semanas. Mas nada como um
+pouco de tempo para colocar a vida de novo nos trilhos, e eu quero agradecer
+a todos que me enviaram mensagems de apoio aqui, por e-mail e pelas várias
+redes sociais que uso!</p>
+<p>Então, para celebrar a nossa volta, quero dedicar este episódio ao <a class="reference external" href="http://bit.ly/VfgrTE">André
+Gondim</a>, que há um ano atrás nos deixou de uma forma tão súbita! O André foi
+parte da vida de muitas pessoas, e na minha opinião, a &quot;cara&quot; do Ubuntu no
+Brasil!</p>
+<p>O convidado deste episódio é o <a class="reference external" href="http://www.julianfernandes.com/">Julian Fernandes</a>, um dos criadores
+e mantenedores do <a class="reference external" href="http://www.ubuntubrsc.com/">Ubuntu BR SC</a>, um dos sites mais visitados pelos usuários
+de Linux (e não só usuários do Ubuntu Linux, diz o Julian) brasileiros buscando
+notícias ou tutoriais para dar uma &quot;perfumada&quot; em seus sistemas ou configurar
+algum dispositivo ou serviço! Com uma média de 8 a 10 mil visitantes por dia,
+o Ubuntu BR SC conta com uma equipe super dinâmica que está sempre adicionando
+conteúdo ou respondendo os comentários e perguntas de seus visitantes.</p>
+]]></description><pubDate>Mon, 03 Dec 2012 14:21:00 -0500</pubDate><title>Julian Fernandes: Ubuntu BR SC</title><itunes:summary>Julian Fernandes: Ubuntu BR SC Demorou mais chegou!!! Devido a problemas pessoais eu infelizmente fiquei um pouco sem tempo para agendar as minhas entrevistas, mas te garanto que foi super difícil para mim deixar de publicar a cada 2 semanas. Mas nada como um pouco de tempo para colocar a vida de novo nos trilhos, e eu quero agradecer a todos que me enviaram mensagems de apoio aqui, por e-mail e pelas várias redes sociais que uso! Então, para celebrar a nossa volta, quero dedicar este episódio ao André Gondim, que há um ano atrás nos deixou de uma forma tão súbita! O André foi parte da vida de muitas pessoas, e na minha opinião, a "cara" do Ubuntu no Brasil! O convidado deste episódio é o Julian Fernandes, um dos criadores e mantenedores do Ubuntu BR SC, um dos sites mais visitados pelos usuários de Linux (e não só usuários do Ubuntu Linux, diz o Julian) brasileiros buscando notícias ou tutoriais para dar uma "perfumada" em seus sistemas ou configurar algum dispositivo ou serviço! Com uma média de 8 a 10 mil visitantes por dia, o Ubuntu BR SC conta com uma equipe super dinâmica que está sempre adicionando conteúdo ou respondendo os comentários e perguntas de seus visitantes.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/julian-fernandes-ubuntu-br-sc.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-48/castalio-podcast-48.mp3"></enclosure></item><item><guid>http://castalio.info/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-2.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Carlos Brando e Rafael Rosa Fu: GrokPodcast" src="http://castalio.info/images/grokpodcast.png" />
+<p class="caption">Carlos Brando e Rafael Rosa Fu: GrokPodcast</p>
+</div>
+<p>Olá pessoal e sejam muito bem vindos a mais um episódio, desta vez sendo
+publicado da cidade de Brno na República Tcheca (estou aqui à trabalho)!  Como
+prometido no último episódio, esta é a segunda parte da entrevista que eu fiz
+com o <strong>Carlos Brando</strong> e <strong>Rafael Rosa Fu</strong> do <a class="reference external" href="http://grokpodcast.com/">**GrokPodcast**</a>! Desta vez
+o assunto da vez foi sobre o background de cada um, e algumas coisas bem
+interessantes que cada um já fez em suas vidas. Quem tem 5 gatos? Quem já
+escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e quem
+recentemente assistiu um filme sobre sushi? Escutem o finalzinho do nosso
+bate-papo para descrobir! :)</p>
+]]></description><pubDate>Sun, 14 Oct 2012 17:01:00 -0400</pubDate><title>Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 2</title><itunes:summary>Carlos Brando e Rafael Rosa Fu: GrokPodcast Olá pessoal e sejam muito bem vindos a mais um episódio, desta vez sendo publicado da cidade de Brno na República Tcheca (estou aqui à trabalho)! Como prometido no último episódio, esta é a segunda parte da entrevista que eu fiz com o Carlos Brando e Rafael Rosa Fu do **GrokPodcast**! Desta vez o assunto da vez foi sobre o background de cada um, e algumas coisas bem interessantes que cada um já fez em suas vidas. Quem tem 5 gatos? Quem já escreveu alguns livros sobre Ruby on Rails? Quem curte comédias e quem recentemente assistiu um filme sobre sushi? Escutem o finalzinho do nosso bate-papo para descrobir! :)</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-2.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-47/castalio-podcast-47.mp3"></enclosure></item><item><guid>http://castalio.info/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Carlos Brando e Rafael Rosa Fu: GrokPodcast" src="http://castalio.info/images/grokpodcast.png" />
+<p class="caption">Carlos Brando e Rafael Rosa Fu: GrokPodcast</p>
+</div>
+<p>Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro!  Desta
+vez eu tive a oportunidade de conversar pelo <strong>Google Hangout</strong> com o <strong>Carlos
+Brando</strong> e <strong>Rafael Rosa Fu</strong> do <a class="reference external" href="http://grokpodcast.com/">**GrokPodcast**</a>! Foi super divertido
+conversar com eles, e o bate-papo foi tão bom que eu decidi dividir
+a entrevista em duas partes para ficar mais conveninente para vocês escutarem.</p>
+<p>Nesta primeira parte conversamos sobre como que a idéia de criar o
+podcast surgiu em um barzinho em São Paulo, quando o Brando e Rafael
+conversavam com o <strong>Fábio Akita</strong> depois de um <strong>RubyConf</strong>. Logo depois
+do primeiro episódio eles resolveram mudar um pouco o foco (que tinha
+começado falando sobre livros) e desde então os tópicos e entrevistados
+ficaram mais e mais interessantes. Já são <strong>mais de 77 episódios</strong> nos
+ensinando a &quot;grokar&quot; mais sobre vários temas e o futuro promete novas
+aventuras!</p>
+<p>Então gostaria de convidá-los a conhecerem um pouco mais sobre o Carlos
+Brando que dentre várias coisas escreveu alguns livros sobre Ruby on
+Rails, trabalhou em companhias como a <strong>Portugal Telecom Group</strong>, <strong>AT&amp;T
+Latin America</strong>, <strong>DirecTV</strong>, <strong>SKY</strong>, <strong>VISA</strong>,&nbsp;<strong>Surgeworks</strong>,
+<strong>Amanaiê</strong> e <strong>Sociably</strong>, e hoje prefere uma vida mais pacata em
+Franca, SP. Também temos o Rafael Rosa Fu que mora em Montreal no
+Canadá, tem 5 gatos (Cecília, Dalila, Ariela, Juju e Bebê), e hoje
+trabalha no <strong>iWeb</strong>.</p>
+]]></description><pubDate>Sun, 30 Sep 2012 18:39:00 -0400</pubDate><title>Carlos Brando e Rafael Rosa Fu: GrokPodcast - Part 1</title><itunes:summary>Carlos Brando e Rafael Rosa Fu: GrokPodcast Olá pessoal e sejam muito bem vindos ao primeiro episódio de outubro! Desta vez eu tive a oportunidade de conversar pelo Google Hangout com o Carlos Brando e Rafael Rosa Fu do **GrokPodcast**! Foi super divertido conversar com eles, e o bate-papo foi tão bom que eu decidi dividir a entrevista em duas partes para ficar mais conveninente para vocês escutarem. Nesta primeira parte conversamos sobre como que a idéia de criar o podcast surgiu em um barzinho em São Paulo, quando o Brando e Rafael conversavam com o Fábio Akita depois de um RubyConf. Logo depois do primeiro episódio eles resolveram mudar um pouco o foco (que tinha começado falando sobre livros) e desde então os tópicos e entrevistados ficaram mais e mais interessantes. Já são mais de 77 episódios nos ensinando a "grokar" mais sobre vários temas e o futuro promete novas aventuras! Então gostaria de convidá-los a conhecerem um pouco mais sobre o Carlos Brando que dentre várias coisas escreveu alguns livros sobre Ruby on Rails, trabalhou em companhias como a Portugal Telecom Group, AT&amp;T Latin America, DirecTV, SKY, VISA, Surgeworks, Amanaiê e Sociably, e hoje prefere uma vida mais pacata em Franca, SP. Também temos o Rafael Rosa Fu que mora em Montreal no Canadá, tem 5 gatos (Cecília, Dalila, Ariela, Juju e Bebê), e hoje trabalha no iWeb.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/carlos-brando-e-rafael-rosa-fu-grokpodcast-part-1.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-46/castalio-podcast-46.mp3"></enclosure></item><item><guid>http://castalio.info/licio-fonseca-google.html</guid><description><![CDATA[<div class="figure align-left">
+<img alt="Licio Fonseca: Google" src="http://castalio.info/images/liciofonseca.jpg" />
+<p class="caption">Licio Fonseca: Google</p>
+</div>
+<p>Nesta última quinta-feira tive o prazer em entrevistar o <strong>Licio
+Fonseca</strong> da <strong>Google</strong>! Eu e o Licio nos conhecemos nos saudosos tempos
+do <strong>Ubuntu Brasil</strong>, mas não conversávamos desde 2006 se não me engano.
+Desde então muita coisa aconteceu, e hoje ele trabalha na Google,
+fazendo toda a manutenção e administração da infra estrutura de toda a
+<strong>América do Sul</strong>!</p>
+<p>Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o
+seu dia a dia, como que conseguiu este trabalho, e sobre o processo de
+entrevistas e seleção para trabalhar na Google.</p>
+<p>Também conversamos sobre as modificações que aconteceram na companhia
+desde que ele comçou a trabalhar, as viagens que ele fez à trabalho,
+rumores, sua <strong>época de skatista</strong>, vida de casado e coleção de action
+figures! E para quem acompanhou a gravação ao vivo pelo <strong>Youtube</strong>,
+teve até o Licio dançando a música <a class="reference external" href="https://www.youtube.com/watch?v=9bZkp7q19f0">Gangnam Style</a> do <strong>PSY</strong>!!! Mas
+se você perdeu a gravação, não esquenta a cabeça porque o vídeo pode ser
+visto <a class="reference external" href="http://bit.ly/QTNlg0">aqui</a> (aos 41 minutos)! :)</p>
+]]></description><pubDate>Sun, 16 Sep 2012 21:45:00 -0400</pubDate><title>Licio Fonseca: Google</title><itunes:summary>Licio Fonseca: Google Nesta última quinta-feira tive o prazer em entrevistar o Licio Fonseca da Google! Eu e o Licio nos conhecemos nos saudosos tempos do Ubuntu Brasil, mas não conversávamos desde 2006 se não me engano. Desde então muita coisa aconteceu, e hoje ele trabalha na Google, fazendo toda a manutenção e administração da infra estrutura de toda a América do Sul! Durante nosso bate-papo, conversamos sobre o que ele faz por lá, sobre o seu dia a dia, como que conseguiu este trabalho, e sobre o processo de entrevistas e seleção para trabalhar na Google. Também conversamos sobre as modificações que aconteceram na companhia desde que ele comçou a trabalhar, as viagens que ele fez à trabalho, rumores, sua época de skatista, vida de casado e coleção de action figures! E para quem acompanhou a gravação ao vivo pelo Youtube, teve até o Licio dançando a música Gangnam Style do PSY!!! Mas se você perdeu a gravação, não esquenta a cabeça porque o vídeo pode ser visto aqui (aos 41 minutos)! :)</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/licio-fonseca-google.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-45/castalio-podcast-45.mp3"></enclosure></item><item><guid>http://castalio.info/bruno-goncalves-biglinux.html</guid><description><![CDATA[<div class="figure align-left" style="width: 50%">
+<img alt="Bruno Gonçalves: BigLinux" src="http://castalio.info/images/brunogoncalves.jpg" />
+<p class="caption">Bruno Gonçalves: BigLinux</p>
+</div>
+<p>Na semana passada eu tive o grande prazer e honra de participar do <a class="reference external" href="http://www.ubuntero.com.br/">Opencast</a>
+em um <a class="reference external" href="http://www.ubuntero.com.br/2012/08/opencast-16-distribuicoes-linux/">episódio</a> onde discutimos várias coisas relacionadas à distribuições
+Linux! Por coincidência, meu amigo <strong>Vladimir Melo</strong> tinha me recomendando
+entrevistar uma pessoa que por muito tempo tinha criado e mantido uma
+distribuição nacional, e recentemente decidiu parar o projeto!</p>
+<p>Neste último episódio então tive o grande prazer de conversar com o <strong>Bruno
+Gonçalves</strong>, criador e mantenedor do <a class="reference external" href="http://www.biglinux.com.br/web/">BigLinux</a>! Até este nosso bate-papo eu
+confesso que não conhecia este projeto, o que é realmente uma pena. O BigLinux
+nasceu de uma &quot;remasterização&quot; do <a class="reference external" href="http://www.hardware.com.br/kurumin/">Kurumin Linux</a> e em pouquíssimo tempo fez
+bastante barulho ao adicionar vários recursos super avançados para a sua época!
+O número de recursos e tecnologias utilizados pelo Bruno é realmente
+impressionante e quando terminamos nossa entrevista eu fiquei literalmente fã
+número 1 dele! :)</p>
+<p>Durante nosso bate-papo ele conta todos os detalhes de como que o projeto
+nasceu, quais foram os obstáculos que enfrentou, e quais foram os motivos que
+o levou a parar o projeto. Também falamos sobre <strong>BigBashView</strong>, seu novo
+projeto&nbsp;<a class="reference external" href="http://uniaolivre.com/">União Livre</a>, que na minha opinião promete muito, e um <strong>livro</strong>
+que esta escrevendo em parceria com um amigo, chamado &quot;<strong>Linux: Simplicidade ao
+seu Alcance</strong>&quot;!</p>
+]]></description><pubDate>Mon, 03 Sep 2012 16:42:00 -0400</pubDate><title>Bruno Gonçalves: BigLinux</title><itunes:summary>Bruno Gonçalves: BigLinux Na semana passada eu tive o grande prazer e honra de participar do Opencast em um episódio onde discutimos várias coisas relacionadas à distribuições Linux! Por coincidência, meu amigo Vladimir Melo tinha me recomendando entrevistar uma pessoa que por muito tempo tinha criado e mantido uma distribuição nacional, e recentemente decidiu parar o projeto! Neste último episódio então tive o grande prazer de conversar com o Bruno Gonçalves, criador e mantenedor do BigLinux! Até este nosso bate-papo eu confesso que não conhecia este projeto, o que é realmente uma pena. O BigLinux nasceu de uma "remasterização" do Kurumin Linux e em pouquíssimo tempo fez bastante barulho ao adicionar vários recursos super avançados para a sua época! O número de recursos e tecnologias utilizados pelo Bruno é realmente impressionante e quando terminamos nossa entrevista eu fiquei literalmente fã número 1 dele! :) Durante nosso bate-papo ele conta todos os detalhes de como que o projeto nasceu, quais foram os obstáculos que enfrentou, e quais foram os motivos que o levou a parar o projeto. Também falamos sobre BigBashView, seu novo projeto União Livre, que na minha opinião promete muito, e um livro que esta escrevendo em parceria com um amigo, chamado "Linux: Simplicidade ao seu Alcance"!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/bruno-goncalves-biglinux.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-44/castalio-podcast-44.mp3"></enclosure></item><item><guid>http://castalio.info/felipe-borges-google-summer-of-code.html</guid><description><![CDATA[<div class="figure">
+<img alt="Felipe Borges" src="http://castalio.info/images/felipeborges.jpeg" />
+<p class="caption">Felipe Borges</p>
+</div>
+<p>Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono
+e a volta às aulas. Nada melhor então que bater um papo com o <strong>Felipe Borges</strong>
+que está participando do <a class="reference external" href="https://code.google.com/soc/">Google Summer of Code</a> pelo projeto <strong>GNOME</strong>!</p>
+<p>Durante estes últimos meses o ...</p>]]></description><pubDate>Sun, 19 Aug 2012 22:49:00 -0400</pubDate><title>Felipe Borges: Google Summer of Code</title><itunes:summary>Felipe Borges Finalzinho do verão americano e no ar já se sente um pouco a vinda do outono e a volta às aulas. Nada melhor então que bater um papo com o Felipe Borges que está participando do Google Summer of Code pelo projeto GNOME! Durante estes últimos meses o ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/felipe-borges-google-summer-of-code.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-43/castalio-podcast-43.mp3"></enclosure></item><item><guid>http://castalio.info/cristiano-costa-hora-do-mac.html</guid><description><![CDATA[<div class="figure">
+<img alt="Cristiano Costa: Hora do Mac" src="http://castalio.info/images/cristianocosta.jpg" />
+<p class="caption">Cristiano Costa: Hora do Mac</p>
+</div>
+<p><strong>Atualização</strong>: Me esqueci novamente de colocar o link para o vídeo da
+entrevista: <a class="reference external" href="http://www.youtube.com/watch?v=k58aVfWhIWE&amp;feature=g-upl">Youtube</a></p>
+<p>Mais um dia de calor aqui na <strong>Carolina do Norte</strong>, e mesmo na correria desta
+semana eu consegui achar um pouco de tempo para entrevistar o <strong>Cristiano
+Costa</strong>, aka <a class="reference external" href="http://twitter.com/#!/caccac">&#64;caccac</a>, do ...</p>]]></description><pubDate>Mon, 06 Aug 2012 14:35:00 -0400</pubDate><title>Cristiano Costa: Hora do Mac</title><itunes:summary>Cristiano Costa: Hora do Mac Atualização: Me esqueci novamente de colocar o link para o vídeo da entrevista: Youtube Mais um dia de calor aqui na Carolina do Norte, e mesmo na correria desta semana eu consegui achar um pouco de tempo para entrevistar o Cristiano Costa, aka @caccac, do ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/cristiano-costa-hora-do-mac.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-42/castalio-podcast-42.mp3"></enclosure></item><item><guid>http://castalio.info/fabio-nogueira-ubuntu-brasil.html</guid><description><![CDATA[<div class="figure">
+<img alt="Fábio Nogueira: Ubuntu Brasil" src="http://castalio.info/images/fabionogueira.jpg" />
+<p class="caption">Fábio Nogueira: Ubuntu Brasil</p>
+</div>
+<p><strong>Atualização</strong>: Faltou o link do <a class="reference external" href="http://www.youtube.com/watch?v=Dgf8Bvn8tYI">vídeo</a> da entrevista! :)</p>
+<p>Olá pessoal e sejam muito bem-vindos à mais um episódio! No começo deste ano eu
+tinha prometido fazer uma série especial sobre os primeiros membros do <strong>Ubuntu
+Brasil</strong> e como tudo começou (quem ainda não escutou o episódio com o <a class="reference external" href="http://www.castalio.info/rodrigo-belem-ubuntu-brasil/">Rodrigo
+Belém</a>?), mas nem sempre é fácil conseguir arrumar um tempinho para bater um
+papo com estas pessoas. Felizmente, nesta última semana, consegui bater um papo
+com o <strong>Fábio Nogueira</strong>, um dos primeiros integrantes e membro das primeiras
+&quot;safras&quot; de pioneiros da comunidade Ubuntu Brasil!</p>
+<p>Durante nosso bate-papo o Fábio conta como que sua participação nesta
+comunidade começou no finalzinho de 2005, ao pedir ajuda com certas
+configurações, e sobre sua subida meteórica que eventualmente o levou a
+se tornar membro do <strong>Conselho Ubuntu Brasil</strong>! Ele também conversa
+sobre os &quot;tempos dourados&quot; da comunidade, comparando com a situação
+atual e fazendo sugestões sobre como que a comunidade poderia ajudar
+hoje em dia. Também conversamos sobre o relacionamento <strong>Canonical</strong>,
+projetos open source e a comunidade no Brasil, sobre seu interesse pelo
+<strong>Elvis Presley</strong>, filmes de zumbi, e uma pequena homenagem ao <strong>André
+Gondim</strong> e <strong>Raphael Higino</strong>, duas pessoas que foram muito importante
+no mundo de software livre no Brasil que infelizmente já não estão mais
+conosco.</p>
+]]></description><pubDate>Sun, 22 Jul 2012 22:52:00 -0400</pubDate><title>Fábio Nogueira: Ubuntu Brasil</title><itunes:summary>Fábio Nogueira: Ubuntu Brasil Atualização: Faltou o link do vídeo da entrevista! :) Olá pessoal e sejam muito bem-vindos à mais um episódio! No começo deste ano eu tinha prometido fazer uma série especial sobre os primeiros membros do Ubuntu Brasil e como tudo começou (quem ainda não escutou o episódio com o Rodrigo Belém?), mas nem sempre é fácil conseguir arrumar um tempinho para bater um papo com estas pessoas. Felizmente, nesta última semana, consegui bater um papo com o Fábio Nogueira, um dos primeiros integrantes e membro das primeiras "safras" de pioneiros da comunidade Ubuntu Brasil! Durante nosso bate-papo o Fábio conta como que sua participação nesta comunidade começou no finalzinho de 2005, ao pedir ajuda com certas configurações, e sobre sua subida meteórica que eventualmente o levou a se tornar membro do Conselho Ubuntu Brasil! Ele também conversa sobre os "tempos dourados" da comunidade, comparando com a situação atual e fazendo sugestões sobre como que a comunidade poderia ajudar hoje em dia. Também conversamos sobre o relacionamento Canonical, projetos open source e a comunidade no Brasil, sobre seu interesse pelo Elvis Presley, filmes de zumbi, e uma pequena homenagem ao André Gondim e Raphael Higino, duas pessoas que foram muito importante no mundo de software livre no Brasil que infelizmente já não estão mais conosco.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/fabio-nogueira-ubuntu-brasil.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-41/castalio-podcast-41.mp3"></enclosure></item><item><guid>http://castalio.info/danilo-resende-facebook.html</guid><description><![CDATA[<div class="figure">
+<img alt="Danilo Resende: Facebook" src="http://castalio.info/images/daniloresende.png" />
+<p class="caption">Danilo Resende: Facebook</p>
+</div>
+<p>Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma
+novidade: uma participação especial do&nbsp;<strong>Ivan Brasil Fuzzer</strong>, criador
+e mantenedor do web site de dicas e tutoriais &nbsp;<a class="reference external" href="http://www.ubuntero.com.br">Ubuntero</a>! Com uma conexão
+<strong>Carolina do Norte</strong> - <strong>Rio Grande do Sul</strong> - <strong>Califórnia</strong>, batemos um papo
+muito legal com o <strong>Danilo Resende</strong> do <strong>Facebook</strong>!</p>
+<p>Durante nosso bate-papo, conversamos sobre como que o Danilo começou sua
+carreira no Facebook, começando como estagiário ainda na faculdade,
+quais os projetos que ele trabalha, sobre sua vinda do Brasil e se
+acostumando à vida nos Estados Unidos, como que ele mata saudade da
+família e onde que ele encontra arroz com feijão na Califórnia!</p>
+]]></description><pubDate>Mon, 09 Jul 2012 02:52:00 -0400</pubDate><title>Danilo Resende: Facebook</title><itunes:summary>Danilo Resende: Facebook Olá pessoal e sejam muito bem-vindos à mais um episódio, mais uma vez com uma novidade: uma participação especial do Ivan Brasil Fuzzer, criador e mantenedor do web site de dicas e tutoriais  Ubuntero! Com uma conexão Carolina do Norte - Rio Grande do Sul - Califórnia, batemos um papo muito legal com o Danilo Resende do Facebook! Durante nosso bate-papo, conversamos sobre como que o Danilo começou sua carreira no Facebook, começando como estagiário ainda na faculdade, quais os projetos que ele trabalha, sobre sua vinda do Brasil e se acostumando à vida nos Estados Unidos, como que ele mata saudade da família e onde que ele encontra arroz com feijão na Califórnia!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/danilo-resende-facebook.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-40/castalio-podcast-40.mp3"></enclosure></item><item><guid>http://castalio.info/djavan-fagundes-gnome-brasil.html</guid><description><![CDATA[<div class="figure">
+<img alt="Djavan Fagundes: GNOME Brasil" src="http://castalio.info/images/djavanfagundes.png" />
+<p class="caption">Djavan Fagundes: GNOME Brasil</p>
+</div>
+<p>Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com uma
+novidade: vídeo com os bastidores e a prórpria entrevista pelo <strong>Youtube</strong>!
+Deixa eu explicar melhor! Depois que vi o último episódio do <a class="reference external" href="http://www.horadomac.com/">Hora do Mac
+(HDM)</a> sendo gravado ao vivo pelo Youtube usando o <strong>Google Hangout</strong>, decidi
+tentar fazer a mesma coisa para que as pessoas possam ver como que as
+entrevistas acontecem e poderem também participar com perguntas durante
+a gravação.  Foi uma pena que na última hora meu convidado não pode usar um
+computador e acabou que o <a class="reference external" href="https://www.youtube.com/watch?feature=player_embedded&amp;v=qmwKZKb0f-Y">primeiro vídeo</a> só tem uma pessoa: eu! :) Mas
+beleza, acho que já para o próximo episódio dá para fazer da forma que eu
+quero! Então depois não se esqueçam de adicionar este podcast aqui no<a class="reference external" href="https://plus.google.com/107864992170817866192/posts">Google
+Plus</a> e <a class="reference external" href="https://twitter.com/#!/castaliopod">Twitter</a> para saberem quando a próxima gravação será feita.</p>
+]]></description><pubDate>Mon, 25 Jun 2012 01:22:00 -0400</pubDate><title>Djavan Fagundes: GNOME Brasil</title><itunes:summary>Djavan Fagundes: GNOME Brasil Olá pessoal e sejam muito bem-vindos à mais um episódio, desta vez com uma novidade: vídeo com os bastidores e a prórpria entrevista pelo Youtube! Deixa eu explicar melhor! Depois que vi o último episódio do Hora do Mac (HDM) sendo gravado ao vivo pelo Youtube usando o Google Hangout, decidi tentar fazer a mesma coisa para que as pessoas possam ver como que as entrevistas acontecem e poderem também participar com perguntas durante a gravação. Foi uma pena que na última hora meu convidado não pode usar um computador e acabou que o primeiro vídeo só tem uma pessoa: eu! :) Mas beleza, acho que já para o próximo episódio dá para fazer da forma que eu quero! Então depois não se esqueçam de adicionar este podcast aqui noGoogle Plus e Twitter para saberem quando a próxima gravação será feita.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/djavan-fagundes-gnome-brasil.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-39/castalio-podcast-39.mp3"></enclosure></item><item><guid>http://castalio.info/felipe-ribeiro-spotify.html</guid><description><![CDATA[<div class="figure">
+<img alt="Felipe Ribeiro: Spotify" src="http://castalio.info/images/feliperibeiro.jpg" />
+<p class="caption">Felipe Ribeiro: Spotify</p>
+</div>
+<p>Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para
+comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para
+comprar o meu <a class="reference external" href="http://www.amazon.com/gp/registry/wishlist/32BX7VP2GEFI1/ref=topnav_lists_1">presente</a> hehehe) tive a chance de conversar com o <strong>Felipe
+Ribeiro</strong>, o único Brasileiro que trabalha na companhia <a class="reference external" href="http://www.spotify.com/">Spotify</a> ! O Felipe
+é irmão do <strong>Flávio Ribeiro</strong> que eu entrevistei no <a class="reference external" href="http://www.castalio.info/flavio-ribeiro-globo-com/">último episódio</a>, o que
+me leva a pensar que existe um movimento muito forte na <strong>Paraíba</strong> nas áreas
+de educação e software livre, já que foram várias pessoas da região que
+passaram por aqui. :)</p>
+]]></description><pubDate>Sun, 10 Jun 2012 16:43:00 -0400</pubDate><title>Felipe Ribeiro: Spotify</title><itunes:summary>Felipe Ribeiro: Spotify Olá pessoal e sejam muito bem-vindos à mais um episódio! Desta vez para comemorar o meu aniversário (que foi no dia 8 de junho, mas ainda há tempo para comprar o meu presente hehehe) tive a chance de conversar com o Felipe Ribeiro, o único Brasileiro que trabalha na companhia Spotify ! O Felipe é irmão do Flávio Ribeiro que eu entrevistei no último episódio, o que me leva a pensar que existe um movimento muito forte na Paraíba nas áreas de educação e software livre, já que foram várias pessoas da região que passaram por aqui. :)</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/felipe-ribeiro-spotify.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-38/castalio-podcast-38.mp3"></enclosure></item><item><guid>http://castalio.info/flavio-ribeiro-globocom.html</guid><description><![CDATA[<div class="figure">
+<img alt="Flávio Ribeiro: Globo.com" src="http://castalio.info/images/flavioribeiro.png" />
+<p class="caption">Flávio Ribeiro: Globo.com</p>
+</div>
+<p>Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa para
+conhecer, e depois de trocar uns e-mails com meu amigo <a class="reference external" href="http://www.castalio.info/yuri-malheiros-engenharia-de-software-e-inteligencia-artificial/">Yuri Malheiros</a> na
+semana passada, decidi convidar o <strong>Flávio Ribeiro</strong> para uma entrevista!
+O Flávio é um <strong>engenheiro de software</strong> que trabalha na <strong>Globo.com</strong> no Rio
+de Janeiro (na entrevista parecia que ele estava sentado bem no meio de
+<strong>Interlagos</strong> hehehe) e está na equipe responsável por toda a área de
+streaming de conteúdo pela net!</p>
+<p>Durante nosos bate-papo ele me contou sobre como que sua equipe usa a
+metodologia <strong>SCRUM</strong> para administrar e planejar suas tarefas, quais as
+tecnologias usadas internamente e como que o software livre faz parte do
+dia-a dia da companhia, que oferece vários incentivos para que seus
+empregados participem deste mundo! Ele também conta sobre sua recem
+viagem à <strong>Nova York</strong> para participar do evento <strong>Streaming Media East
+2012</strong> e sobre como foi passear por NYC já no comecinho do verão, tomar
+sorvete no parque, a decepção ao ver a <strong>Estátua da Liberade</strong>, e como é
+difícil acompanhar os jogos do <strong>Treze Futebol Clube</strong> lá do Rio de
+Janeiro!</p>
+]]></description><pubDate>Sun, 27 May 2012 18:01:00 -0400</pubDate><title>Flávio Ribeiro: Globo.com</title><itunes:summary>Flávio Ribeiro: Globo.com Eu gosto muito quando alguém me sugere um livro, filme, música ou pessoa para conhecer, e depois de trocar uns e-mails com meu amigo Yuri Malheiros na semana passada, decidi convidar o Flávio Ribeiro para uma entrevista! O Flávio é um engenheiro de software que trabalha na Globo.com no Rio de Janeiro (na entrevista parecia que ele estava sentado bem no meio de Interlagos hehehe) e está na equipe responsável por toda a área de streaming de conteúdo pela net! Durante nosos bate-papo ele me contou sobre como que sua equipe usa a metodologia SCRUM para administrar e planejar suas tarefas, quais as tecnologias usadas internamente e como que o software livre faz parte do dia-a dia da companhia, que oferece vários incentivos para que seus empregados participem deste mundo! Ele também conta sobre sua recem viagem à Nova York para participar do evento Streaming Media East 2012 e sobre como foi passear por NYC já no comecinho do verão, tomar sorvete no parque, a decepção ao ver a Estátua da Liberade, e como é difícil acompanhar os jogos do Treze Futebol Clube lá do Rio de Janeiro!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/flavio-ribeiro-globocom.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-37/castalio-podcast-37.mp3"></enclosure></item><item><guid>http://castalio.info/caike-souza-envy-labs.html</guid><description><![CDATA[<div class="figure" style="width: 50%">
+<img alt="Caike Souza: Envy Labs" src="http://castalio.info/images/caikesouza.jpg" />
+<p class="caption">Caike Souza: Envy Labs</p>
+</div>
+<p>Nem parece que já passaram duas semanas desde o último episódio, mas mais uma
+vez tive o prazer de entrevistar uma pessoa prá lá de interessante e divertida:
+o <strong>Caike Souza</strong>! Foi durante a minha entrevista com o <a class="reference external" href="http://www.castalio.info/henrique-bastos-welcome-to-the-django/">Henrique Bastos</a> que
+eu fiquei sabendo sobre ele, mas foi somente esta semana que eu fui saber que
+ele trabalha na <strong>Envy Labs</strong> desde 2009 lá em <strong>Orlando</strong>, na <strong>Flórida</strong>.
+A companhia parece ser super bacana e está por trás de vários projetos bacanas,
+como o <strong>Rails for Zombies</strong>, <strong>Code School</strong> e <strong>TryRuby.org</strong>.</p>
+<p>A primeira coisa que fica bem evidente sobre o Caike é que ele realmente
+curte muito o que faz, tem muito orgulho de onde trabalha, e é super
+humilde e divertido! Ele fala que programação é uma arte, e esta
+combinação de paixão pelo que faz e arte fica bem aparente nas coisas
+que ele faz! Durante nosso bate-papo conversamos sobre como que ele foi
+parar em Orlando na Envy Labs, quais companhias que usam a usam os
+serviços deles (e os motivos pelas quais terem escolhido isso), sua
+participação na conferência <strong>RailsConf 2012</strong>, sua banda de rock
+&quot;<strong>Heroes Will Fall</strong>&quot;, a história por trás do projeto&nbsp;<strong>Small Acts
+Manifesto</strong> e até mesmo seu <strong>Top 5 de pessoas para seguir no
+Twitter</strong>!!!</p>
+]]></description><pubDate>Sun, 13 May 2012 23:03:00 -0400</pubDate><title>Caike Souza: Envy Labs</title><itunes:summary>Caike Souza: Envy Labs Nem parece que já passaram duas semanas desde o último episódio, mas mais uma vez tive o prazer de entrevistar uma pessoa prá lá de interessante e divertida: o Caike Souza! Foi durante a minha entrevista com o Henrique Bastos que eu fiquei sabendo sobre ele, mas foi somente esta semana que eu fui saber que ele trabalha na Envy Labs desde 2009 lá em Orlando, na Flórida. A companhia parece ser super bacana e está por trás de vários projetos bacanas, como o Rails for Zombies, Code School e TryRuby.org. A primeira coisa que fica bem evidente sobre o Caike é que ele realmente curte muito o que faz, tem muito orgulho de onde trabalha, e é super humilde e divertido! Ele fala que programação é uma arte, e esta combinação de paixão pelo que faz e arte fica bem aparente nas coisas que ele faz! Durante nosso bate-papo conversamos sobre como que ele foi parar em Orlando na Envy Labs, quais companhias que usam a usam os serviços deles (e os motivos pelas quais terem escolhido isso), sua participação na conferência RailsConf 2012, sua banda de rock "Heroes Will Fall", a história por trás do projeto Small Acts Manifesto e até mesmo seu Top 5 de pessoas para seguir no Twitter!!!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/caike-souza-envy-labs.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-36/castalio-podcast-36.mp3"></enclosure></item><item><guid>http://castalio.info/fabio-kung-e-pedro-belo-heroku.html</guid><description><![CDATA[<div class="figure">
+<img alt="Fábio Kung e Pedro Belo: Heroku" src="http://castalio.info/images/heroku.png" />
+<p class="caption">Fábio Kung e Pedro Belo: Heroku</p>
+</div>
+<p>Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois
+convidados: <strong>Fábio Kung</strong> e <strong>Pedro Belo</strong>, que atualmente trabalham na
+companhia Californiana <strong>Heroku</strong>! Se você escutou os dois últimos episódios,
+você deve se lembrar que eu mencionei sobre esta companhia com o <a class="reference external" href="http://www.castalio.info/henrique-bastos-welcome-to-the-django/">Henrique
+Bastos</a> e <a class="reference external" href="http://www.castalio.info/julio-monteiro-jobscore/">Júlio Monteiro</a>, e como que eu tenho usado os serviços que eles
+oferecem para hospedar e rodar alguns dos meus projetos. Então quando o Júlio
+se ofereceu para me apresentar ao pessoal da Heroku eu aceitei na mesma hora!</p>
+<p>Nosso bate-papo foi super divertido, e mesmo com os <strong>três fusos de
+horário diferentes</strong> (o Fábio na <strong>California</strong>, Pedro no <strong>Texas</strong> e eu
+na <strong>Carolina do Norte</strong>) conseguimos conversar sobre vários assuntos,
+incluindo uma explicação sobre o que significa Plataforma como Serviço
+(<strong>PaaS</strong>), o que a Heroku tem para oferecer comparado com a competição,
+contratações no mundo do software livre, vida no exterior, caipirinhas,
+bicicletas, ping-pong e mais!</p>
+]]></description><pubDate>Sun, 29 Apr 2012 13:03:00 -0400</pubDate><title>Fábio Kung e Pedro Belo: Heroku</title><itunes:summary>Fábio Kung e Pedro Belo: Heroku Olá pessoal e sejam bem-vindos à mais um episódio, desta vez com dois convidados: Fábio Kung e Pedro Belo, que atualmente trabalham na companhia Californiana Heroku! Se você escutou os dois últimos episódios, você deve se lembrar que eu mencionei sobre esta companhia com o Henrique Bastos e Júlio Monteiro, e como que eu tenho usado os serviços que eles oferecem para hospedar e rodar alguns dos meus projetos. Então quando o Júlio se ofereceu para me apresentar ao pessoal da Heroku eu aceitei na mesma hora! Nosso bate-papo foi super divertido, e mesmo com os três fusos de horário diferentes (o Fábio na California, Pedro no Texas e eu na Carolina do Norte) conseguimos conversar sobre vários assuntos, incluindo uma explicação sobre o que significa Plataforma como Serviço (PaaS), o que a Heroku tem para oferecer comparado com a competição, contratações no mundo do software livre, vida no exterior, caipirinhas, bicicletas, ping-pong e mais!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/fabio-kung-e-pedro-belo-heroku.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-35/castalio-podcast-35.mp3"></enclosure></item><item><guid>http://castalio.info/julio-monteiro-jobscore.html</guid><description><![CDATA[<div class="figure">
+<img alt="Júlio Monteiro: JobScore" src="http://castalio.info/images/juliomonteiro.png" />
+<p class="caption">Júlio Monteiro: JobScore</p>
+</div>
+<p>Depois de ter falado um pouco com pessoas que usam <strong>Python</strong> ou
+<strong>Django</strong> no seu dia-a-dia, eu decidi entrevistar alguém que trabalha
+com o framework <strong>Ruby on Rails</strong> para este episódio! Dentre as pessoas
+que eu conheço (online e pessoalmente) o nome do <strong>Júlio Monteiro</strong> foi
+o ...</p>]]></description><pubDate>Sun, 15 Apr 2012 20:40:00 -0400</pubDate><title>Júlio Monteiro: JobScore</title><itunes:summary>Júlio Monteiro: JobScore Depois de ter falado um pouco com pessoas que usam Python ou Django no seu dia-a-dia, eu decidi entrevistar alguém que trabalha com o framework Ruby on Rails para este episódio! Dentre as pessoas que eu conheço (online e pessoalmente) o nome do Júlio Monteiro foi o ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/julio-monteiro-jobscore.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-34/castalio-podcast-34.mp3"></enclosure></item><item><guid>http://castalio.info/henrique-bastos-welcome-to-the-django.html</guid><description><![CDATA[<div class="figure">
+<img alt="Henrique Bastos: Welcome to the Django" src="http://castalio.info/images/henriquebastos.png" />
+<p class="caption">Henrique Bastos: Welcome to the Django</p>
+</div>
+<p>Há mais ou menos 1 anos e meio atrás eu tinha começado a aprender a
+programar com o framework <strong>Django</strong> e durante minhas pesquisas pela net
+encontrei o projeto do <strong>Henrique Bastos</strong>: <strong>Welcome to the Django</strong>.
+Não demorou muito para ver a qualidade e o potencial que este curso
+oferece, e desde então eu tenho acompanhado o trabalho que o Henrique
+tem feito! Nesta última quinta eu tive a oportunidade de bater um
+bate-papo com ele via Skype, e entrevistá-lo para este episódio!</p>
+<p>Tanto o Welcome to the Django quanto a <strong>Dekode</strong>, companhia que evoluiu
+da mesma, mostram o entusiasmo e a competência que o Henrique tem pelo
+que faz. Ambos projetos nasceram da sua vontade de compartilhar seu
+conhecimento acumulado nas áreas de programação e gestão de projetos com
+software livre, e foi muito interessante escutar sobre como cada um
+nasceu e evoluiu.</p>
+]]></description><pubDate>Sun, 01 Apr 2012 16:18:00 -0400</pubDate><title>Henrique Bastos: Welcome to the Django</title><itunes:summary>Henrique Bastos: Welcome to the Django Há mais ou menos 1 anos e meio atrás eu tinha começado a aprender a programar com o framework Django e durante minhas pesquisas pela net encontrei o projeto do Henrique Bastos: Welcome to the Django. Não demorou muito para ver a qualidade e o potencial que este curso oferece, e desde então eu tenho acompanhado o trabalho que o Henrique tem feito! Nesta última quinta eu tive a oportunidade de bater um bate-papo com ele via Skype, e entrevistá-lo para este episódio! Tanto o Welcome to the Django quanto a Dekode, companhia que evoluiu da mesma, mostram o entusiasmo e a competência que o Henrique tem pelo que faz. Ambos projetos nasceram da sua vontade de compartilhar seu conhecimento acumulado nas áreas de programação e gestão de projetos com software livre, e foi muito interessante escutar sobre como cada um nasceu e evoluiu.</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/henrique-bastos-welcome-to-the-django.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-33/castalio-podcast-33.mp3"></enclosure></item><item><guid>http://castalio.info/gabriel-falcao-yipit.html</guid><description><![CDATA[<div class="figure">
+<img alt="Gabriel Falcão: YipIt" src="http://castalio.info/images/gabrielfalcao.jpg" />
+<p class="caption">Gabriel Falcão: YipIt</p>
+</div>
+<p>Olá pessoal e sejam muito bem-vindos ao episódio 32 do Castálio Podcast!
+Desta vez eu tive o enorme prazer de conversar com o <strong>Gabriel Falcão</strong>,
+desenvolvedor de vários projetos de software livre e que hoje mora em
+<strong>New York City</strong>.</p>
+<p>A história do Gabriel é um excelente ...</p>]]></description><pubDate>Sun, 18 Mar 2012 20:33:00 -0400</pubDate><title>Gabriel Falcão: Yipit</title><itunes:summary>Gabriel Falcão: YipIt Olá pessoal e sejam muito bem-vindos ao episódio 32 do Castálio Podcast! Desta vez eu tive o enorme prazer de conversar com o Gabriel Falcão, desenvolvedor de vários projetos de software livre e que hoje mora em New York City. A história do Gabriel é um excelente ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/gabriel-falcao-yipit.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-32/castalio-podcast-32.mp3"></enclosure></item><item><guid>http://castalio.info/ivan-brasil-fuzzer-ubuntero.html</guid><description><![CDATA[<div class="figure">
+<img alt="Ivan Brasil Fuzzer: Ubuntero" src="http://castalio.info/images/ivanfuzzer.jpg" />
+<p class="caption">Ivan Brasil Fuzzer: Ubuntero</p>
+</div>
+<p>Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última
+semana tive a oportunidade de conversar com o <strong>Ivan Brasil Fuzzer</strong>,
+criador e mantenedor do web site de dicas e tutoriais &nbsp;Ubuntero! Junto
+com uma equipe de colaboradores, o Ivan escreve artigos sobre todas as
+áreas relacionadas à tecnologia e tutorias, focando na área de software
+livre!</p>
+<p>A história do Ubuntero me lembra um pouco a história do <a class="reference external" href="http://br-linux.org/">BR-Linux</a>, começando
+como um catálogo de informações úteis para o Ivan e eventualmente tornando-se
+em um ponto de parada para todos aqueles usuários de Linux que procuram dicas
+e truques para lidarem com suas configurações.</p>
+<p>Com o passar dos tempos seu projeto deixou de ser somente &quot;mais um blog sobre
+Linux&quot; e expandiu para outras vias de comunicação, como um <a class="reference external" href="http://www.youtube.com/user/ubunterobr?feature=watch">canal de vídeos</a>
+no <strong>Youtube</strong> e seu mais recente projeto, o <strong>Opencast</strong> podcast!</p>
+]]></description><pubDate>Sun, 04 Mar 2012 15:36:00 -0500</pubDate><title>Ivan Brasil Fuzzer: Ubuntero</title><itunes:summary>Ivan Brasil Fuzzer: Ubuntero Olá pessoal e sejam bem-vindos ao segundo episódio de 2012! Esta última semana tive a oportunidade de conversar com o Ivan Brasil Fuzzer, criador e mantenedor do web site de dicas e tutoriais  Ubuntero! Junto com uma equipe de colaboradores, o Ivan escreve artigos sobre todas as áreas relacionadas à tecnologia e tutorias, focando na área de software livre! A história do Ubuntero me lembra um pouco a história do BR-Linux, começando como um catálogo de informações úteis para o Ivan e eventualmente tornando-se em um ponto de parada para todos aqueles usuários de Linux que procuram dicas e truques para lidarem com suas configurações. Com o passar dos tempos seu projeto deixou de ser somente "mais um blog sobre Linux" e expandiu para outras vias de comunicação, como um canal de vídeos no Youtube e seu mais recente projeto, o Opencast podcast!</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/ivan-brasil-fuzzer-ubuntero.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-31/castalio-podcast-31.mp3"></enclosure></item><item><guid>http://castalio.info/rodrigo-belem-ubuntu-brasil.html</guid><description><![CDATA[<div class="figure">
+<img alt="Rodrigo Belém: Ubuntu Brasil" src="http://castalio.info/images/rodrigobelem.png" />
+<p class="caption">Rodrigo Belém: Ubuntu Brasil</p>
+</div>
+<p>Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo
+episódio, este comemorando nosso <strong>primeiro ano no ar</strong>! Aproveitei a
+oportunidade então para dar o pontapé inicial em uma nova série, desta
+vez focada na criação do Ubuntu Brasil!!! Ame-a ou não, a ...</p>]]></description><pubDate>Mon, 20 Feb 2012 00:02:00 -0500</pubDate><title>Rodrigo Belém: Ubuntu Brasil</title><itunes:summary>Rodrigo Belém: Ubuntu Brasil Olá pessoal e sejam mais uma vez muito bem-vindos a mais um novo episódio, este comemorando nosso primeiro ano no ar! Aproveitei a oportunidade então para dar o pontapé inicial em uma nova série, desta vez focada na criação do Ubuntu Brasil!!! Ame-a ou não, a ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/rodrigo-belem-ubuntu-brasil.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-30/castalio-podcast-30.mp3"></enclosure></item><item><guid>http://castalio.info/ana-cristina-fricke-matte-texto-livre.html</guid><description><![CDATA[<div class="figure">
+<img alt="Ana Cristina Fricke Matte" src="http://castalio.info/images/anamatte.jpg" />
+<p class="caption">Ana Cristina Fricke Matte</p>
+</div>
+<p>Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não
+saiu devido a problemas técnicos de última hora! Mas felizmente consegui
+resgatar e editar um bate-papo muito interessante que tive com a <strong>Ana
+Cristina Fricke Matte</strong>, ou &quot;a <strong>acris</strong>&nbsp; do <a class="reference external" href="http://www.textolivre.org/site/">Texto Livre</a>&quot;, como ele ...</p>]]></description><pubDate>Sun, 05 Feb 2012 22:13:00 -0500</pubDate><title>Ana Cristina Fricke Matte: Texto Livre</title><itunes:summary>Ana Cristina Fricke Matte Olá pessoal! Sejam muito bem-vindos a mais um episódio, que quase não saiu devido a problemas técnicos de última hora! Mas felizmente consegui resgatar e editar um bate-papo muito interessante que tive com a Ana Cristina Fricke Matte, ou "a acris  do Texto Livre", como ele ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/ana-cristina-fricke-matte-texto-livre.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-29/castalio-podcast-29.mp3"></enclosure></item><item><guid>http://castalio.info/marcelo-hashimoto-polly-twitter-client.html</guid><description><![CDATA[<div class="figure">
+<img alt="Marcelo Hashimoto" src="http://castalio.info/images/marcelohashimoto.jpg" />
+<p class="caption">Marcelo Hashimoto</p>
+</div>
+<p>Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano!
+O convidado de hoje é o <strong>Marcelo Hashimoto</strong>, desenvolvedor do cliente de
+<strong>Twitter</strong> chamado <strong>Polly</strong>! Se você curte programar com <strong>Gtk</strong>
+e <strong>Python</strong>, ou tem interesse em conhecer um aplicativo específico para o seu
+sistem ...</p>]]></description><pubDate>Sun, 22 Jan 2012 17:53:00 -0500</pubDate><title>Marcelo Hashimoto: Polly Twitter Client</title><itunes:summary>Marcelo Hashimoto Olá pessoal! Sejam muito bem-vindos a mais um episódio, o segundo deste ano! O convidado de hoje é o Marcelo Hashimoto, desenvolvedor do cliente de Twitter chamado Polly! Se você curte programar com Gtk e Python, ou tem interesse em conhecer um aplicativo específico para o seu sistem ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/marcelo-hashimoto-polly-twitter-client.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-28/castalio-podcast-28.mp3"></enclosure></item><item><guid>http://castalio.info/rodrigo-padula-de-oliveira-ufrj.html</guid><description><![CDATA[<div class="figure">
+<img alt="Rodrigo Padula" src="http://castalio.info/images/rodrigopadula.png" />
+<p class="caption">Rodrigo Padula</p>
+</div>
+<p>Olá pessoal e sejam muito bem-vindos ao <strong>primeiro episódio de 2012</strong>!
+Desta vez entrevistei o <strong>Rodrigo Padula</strong>, amigo de algum tempo pela
+internet nas traduções do projeto <strong>GNOME</strong>. O Rodrigo tem um currículo
+bastante extensivo trabalhando em vários dos projetos de software livre,
+e durante nosso bate-papo ele ...</p>]]></description><pubDate>Sun, 08 Jan 2012 17:11:00 -0500</pubDate><title>Rodrigo Padula de Oliveira: UFRJ</title><itunes:summary>Rodrigo Padula Olá pessoal e sejam muito bem-vindos ao primeiro episódio de 2012! Desta vez entrevistei o Rodrigo Padula, amigo de algum tempo pela internet nas traduções do projeto GNOME. O Rodrigo tem um currículo bastante extensivo trabalhando em vários dos projetos de software livre, e durante nosso bate-papo ele ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/rodrigo-padula-de-oliveira-ufrj.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-27/castalio-podcast-27.mp3"></enclosure></item><item><guid>http://castalio.info/rodrigo-novo-conectiva-linux.html</guid><description><![CDATA[<div class="figure">
+<img alt="Rodrigo Novo" src="http://castalio.info/images/rodrigonovo.png" />
+<p class="caption">Rodrigo Novo</p>
+</div>
+<p>Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último
+de 2011)! Dando continuidade à proposta de trazer mais uma entrevista
+com uma personalidade do <strong>Conectiva Linux</strong>, desta vez tenho o prazer
+de apresentar a vocês o <strong>Rodrigo Novo</strong>! Durante nosso bate-papo ele
+conta ...</p>]]></description><pubDate>Mon, 26 Dec 2011 18:16:00 -0500</pubDate><title>Rodrigo Novo: Conectiva Linux</title><itunes:summary>Rodrigo Novo Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último de 2011)! Dando continuidade à proposta de trazer mais uma entrevista com uma personalidade do Conectiva Linux, desta vez tenho o prazer de apresentar a vocês o Rodrigo Novo! Durante nosso bate-papo ele conta ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/rodrigo-novo-conectiva-linux.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3"></enclosure></item><item><guid>http://castalio.info/joao-fernando-costa-junior-revista-espirito-livre.html</guid><description><![CDATA[<div class="figure">
+<img alt="João Fernando Costa Junior" src="http://castalio.info/images/joaojunior.jpg" />
+<p class="caption">João Fernando Costa Junior</p>
+</div>
+<p>O entrevistado deste episódio é o <strong>João Fernando Costa Júnior</strong>,
+criador e mantenedor da <a class="reference external" href="http://www.revista.espiritolivre.org/">Revista Espírito Livre</a>, &quot;uma publicação em
+formato digital, a ser distribuída em PDF, gratuita e com foco em
+tecnologia, cultura livre, Internet, sempre tendo como plano de fundo o
+iniciativas como o ...</p>]]></description><pubDate>Mon, 12 Dec 2011 02:31:00 -0500</pubDate><title>João Fernando Costa Júnior: Revista Espírito Livre</title><itunes:summary>João Fernando Costa Junior O entrevistado deste episódio é o João Fernando Costa Júnior, criador e mantenedor da Revista Espírito Livre, "uma publicação em formato digital, a ser distribuída em PDF, gratuita e com foco em tecnologia, cultura livre, Internet, sempre tendo como plano de fundo o iniciativas como o ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/joao-fernando-costa-junior-revista-espirito-livre.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-25/castalio-podcast-25.mp3"></enclosure></item><item><guid>http://castalio.info/ruda-moura-conectiva-linux.html</guid><description><![CDATA[<div class="figure">
+<img alt="Rudá Moura: Conectiva Linux" src="http://castalio.info/images/rudamoura.png" />
+<p class="caption">Rudá Moura: Conectiva Linux</p>
+</div>
+<p>Dando continuidade ao plano de trazer mais uma entrevista com um membro
+do Conectiva Linux, desta vez conversei com o <strong>Rudá Moura</strong> que
+trabalhou na área de suporte e empacotamento da distribuição! Durante o
+nosso bate-papo conversamos sobre como que entrar no <strong>Conectiva Linux</strong>
+foi para ...</p>]]></description><pubDate>Sun, 04 Dec 2011 17:05:00 -0500</pubDate><title>Rudá Moura: Conectiva Linux</title><itunes:summary>Rudá Moura: Conectiva Linux Dando continuidade ao plano de trazer mais uma entrevista com um membro do Conectiva Linux, desta vez conversei com o Rudá Moura que trabalhou na área de suporte e empacotamento da distribuição! Durante o nosso bate-papo conversamos sobre como que entrar no Conectiva Linux foi para ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/ruda-moura-conectiva-linux.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-24/castalio-podcast-24.mp3"></enclosure></item><item><guid>http://castalio.info/elvis-pfutzenreuter-conectiva-linux.html</guid><description><![CDATA[<p>O episódio de hoje marca o início de um mini-projeto que estou
+planejando há algum tempo: conversar com o pessoal que iniciou e
+trabalhou nos primeiros anos da distribuição&nbsp; Conectiva Linux! Ao longo
+das próximas semanas vou tentar entrevistar um membro desta distribuição
+que foi tão importante nos primeiros anos ...</p>]]></description><pubDate>Mon, 28 Nov 2011 03:37:00 -0500</pubDate><title>Elvis Pfutzenreuter: Conectiva Linux</title><itunes:summary>O episódio de hoje marca o início de um mini-projeto que estou planejando há algum tempo: conversar com o pessoal que iniciou e trabalhou nos primeiros anos da distribuição  Conectiva Linux! Ao longo das próximas semanas vou tentar entrevistar um membro desta distribuição que foi tão importante nos primeiros anos ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/elvis-pfutzenreuter-conectiva-linux.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-23/castalio-podcast-23.mp3"></enclosure></item><item><guid>http://castalio.info/alexandre-coster-asobo-studio.html</guid><description><![CDATA[<div class="figure">
+<img alt="Alexandre Coster - Asobo Studio" src="http://castalio.info/images/alexandrecoster.jpg" />
+<p class="caption">Alexandre Coster - Asobo Studio</p>
+</div>
+<p>No episódio de hoje conversei com o <strong>Alexandre Coster</strong>, um&nbsp;<strong>Game
+Programmer</strong> trabalhando para a <strong>Asobo Studio</strong> em <strong>Bordeaux</strong>, na
+<strong>França</strong> em um projeto que ainda não foi anunciado para um console
+next generation. Durante os 60 minutos que batemos papo, conversamos
+sobre sua experiência vivendo ...</p>]]></description><pubDate>Mon, 14 Nov 2011 02:33:00 -0500</pubDate><title>Alexandre Coster: Asobo Studio</title><itunes:summary>Alexandre Coster - Asobo Studio No episódio de hoje conversei com o Alexandre Coster, um Game Programmer trabalhando para a Asobo Studio em Bordeaux, na França em um projeto que ainda não foi anunciado para um console next generation. Durante os 60 minutos que batemos papo, conversamos sobre sua experiência vivendo ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/alexandre-coster-asobo-studio.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-22/castalio-podcast-22.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-especial-andre-gondim-ubuntu-brasil.html</guid><description><![CDATA[<div class="figure">
+<img alt="André Gondim - Ubuntu Brasil" src="http://castalio.info/images/andregondim.png" />
+<p class="caption">André Gondim - Ubuntu Brasil</p>
+</div>
+<p>Olá pessoal! Foi com um enorme pezar que eu recebi a <a class="reference external" href="http://sejalivre.org/?p=5698">notícia</a> sobre
+o falecimento de <a class="reference external" href="http://andregondim.eti.br/">André Gondim</a>, uma figura do software livre Brasileiro que,
+infelizmente, nos deixou na semana passada... O meu relacionamento com o André
+começou em 2005 quando eu ainda administrava a equipe ...</p>]]></description><pubDate>Sun, 06 Nov 2011 23:17:00 -0500</pubDate><title>Episódio Especial: André Gondim - Ubuntu Brasil</title><itunes:summary>André Gondim - Ubuntu Brasil Olá pessoal! Foi com um enorme pezar que eu recebi a notícia sobre o falecimento de André Gondim, uma figura do software livre Brasileiro que, infelizmente, nos deixou na semana passada... O meu relacionamento com o André começou em 2005 quando eu ainda administrava a equipe ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-especial-andre-gondim-ubuntu-brasil.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-21/castalio-podcast-21.mp3"></enclosure></item><item><guid>http://castalio.info/guilherme-salgado-canonical-e-linaro.html</guid><description><![CDATA[<div class="figure">
+<img alt="Guilherme Salgado: Canonical e Linaro" src="http://castalio.info/images/guilhermesalgado.jpg" />
+<p class="caption">Guilherme Salgado: Canonical e Linaro</p>
+</div>
+<p>O convidado de hoje é o <strong>Guilherme Salgado</strong>. Durante nosso bate-papo,
+conversamos sobre como que ele começou a usar computadores e <strong>Linux</strong>,
+sobre sua passagem pela companhia <strong>ASync</strong> e trabalhando no
+<strong>Launchpad</strong>, e sua ida para a <strong>Canonical</strong>, a companhia por trás da
+distribuição <strong>Ubuntu ...</strong></p>]]></description><pubDate>Sun, 30 Oct 2011 21:59:00 -0400</pubDate><title>Guilherme Salgado: Canonical e Linaro</title><itunes:summary>Guilherme Salgado: Canonical e Linaro O convidado de hoje é o Guilherme Salgado. Durante nosso bate-papo, conversamos sobre como que ele começou a usar computadores e Linux, sobre sua passagem pela companhia ASync e trabalhando no Launchpad, e sua ida para a Canonical, a companhia por trás da distribuição Ubuntu ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/guilherme-salgado-canonical-e-linaro.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-20/castalio-podcast-20.mp3"></enclosure></item><item><guid>http://castalio.info/evandro-pastor-quarto-estudio.html</guid><description><![CDATA[<div class="figure">
+<img alt="Evandro Pastor" src="http://castalio.info/images/evandropastor.png" />
+<p class="caption">Evandro Pastor</p>
+</div>
+<p>No episódio de hoje vocês vão ter a oportunidade de conhecer um pouco
+melhor o <strong>Evandro Pastor</strong>, co-fundador deste podcast e amigo de guerra
+de vários anos! Vocês vão aprender sobre como nasceu a sua companhia de
+web design, <a class="reference external" href="http://www.quartoestudio.com/web/">Quarto Estudio</a>,
+sobre o tempo que ele passou trabalhando ...</p>]]></description><pubDate>Mon, 17 Oct 2011 12:37:00 -0400</pubDate><title>Evandro Pastor: Quarto Estudio</title><itunes:summary>Evandro Pastor No episódio de hoje vocês vão ter a oportunidade de conhecer um pouco melhor o Evandro Pastor, co-fundador deste podcast e amigo de guerra de vários anos! Vocês vão aprender sobre como nasceu a sua companhia de web design, Quarto Estudio, sobre o tempo que ele passou trabalhando ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/evandro-pastor-quarto-estudio.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-19/castalio-podcast-19.mp3"></enclosure></item><item><guid>http://castalio.info/augusto-campos-br-linux-br-mac-efetividade.html</guid><description><![CDATA[<div class="figure">
+<img alt="Augusto Campos: BR-Linux, BR-Mac, Efetividades" src="http://castalio.info/images/augustocampos.jpg" />
+<p class="caption">Augusto Campos: BR-Linux, BR-Mac, Efetividades</p>
+</div>
+<p>Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom
+papo com o <strong>Augusto Campos</strong>, fundador dos super populares&nbsp;sites <strong>BR-Linux</strong>,
+<strong>BR-Mac</strong> e <strong>Efetividade</strong>! Devido à conexão que estava sofrendo muita perda
+de pacotes (<strong>para cada 7 minutos de áudio, passei ...</strong></p>]]></description><pubDate>Sun, 02 Oct 2011 16:43:00 -0400</pubDate><title>Augusto Campos: BR-Linux, BR-Mac, Efetividade</title><itunes:summary>Augusto Campos: BR-Linux, BR-Mac, Efetividades Em um dia de muita chuva em Florianópolis, SC finalmente consegui bater um bom papo com o Augusto Campos, fundador dos super populares sites BR-Linux, BR-Mac e Efetividade! Devido à conexão que estava sofrendo muita perda de pacotes (para cada 7 minutos de áudio, passei ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/augusto-campos-br-linux-br-mac-efetividade.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-18/castalio-podcast-18.mp3"></enclosure></item><item><guid>http://castalio.info/pete-savage-git-in-the-trenches-gitt.html</guid><description><![CDATA[<div class="figure">
+<img alt="Pete Savage: Git In The Trenches" src="http://castalio.info/images/petesavage.png" />
+<p class="caption">Pete Savage: Git In The Trenches</p>
+</div>
+<p>First off I'd like to welcome all the new visitors to this podcast's
+<strong>17th episode</strong> and the very <strong>first one</strong> done in <strong>English</strong>! This
+podcast was born out of my curiosity of getting to know a bit more about
+the people I ...</p>]]></description><pubDate>Sun, 18 Sep 2011 21:44:00 -0400</pubDate><title>Pete Savage: Git In The Trenches (GITT)</title><itunes:summary>Pete Savage: Git In The Trenches First off I'd like to welcome all the new visitors to this podcast's 17th episode and the very first one done in English! This podcast was born out of my curiosity of getting to know a bit more about the people I ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/pete-savage-git-in-the-trenches-gitt.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-17/castalio-podcast-17.mp3"></enclosure></item><item><guid>http://castalio.info/alvaro-turicas-justen-arduino.html</guid><description><![CDATA[<div class="figure">
+<img alt="Álvaro &quot;Turicas&quot; Justen - Arduino" src="http://castalio.info/images/alvarojusten.png" />
+<p class="caption">Álvaro &quot;Turicas&quot; Justen - Arduino</p>
+</div>
+<p>No episódio de hoje conversei com o <strong>Álvaro &quot;Turicas&quot; Justen</strong> sobre um monte
+de coisas relacionadas ao <strong>Arduino</strong>, e como usá-lo junto com vários outros
+adaptadores (<strong>shields</strong>) para fazer um monte de coisas bacanas, como
+<strong>controlar a cor de um abajour pelo seu telefone Android</strong> e ...</p>]]></description><pubDate>Mon, 05 Sep 2011 03:26:00 -0400</pubDate><title>Álvaro "Turicas" Justen - Arduino</title><itunes:summary>Álvaro "Turicas" Justen - Arduino No episódio de hoje conversei com o Álvaro "Turicas" Justen sobre um monte de coisas relacionadas ao Arduino, e como usá-lo junto com vários outros adaptadores (shields) para fazer um monte de coisas bacanas, como controlar a cor de um abajour pelo seu telefone Android e ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/alvaro-turicas-justen-arduino.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-16/castalio-podcast-16.mp3"></enclosure></item><item><guid>http://castalio.info/carlos-ribeiro-radiotray.html</guid><description><![CDATA[<div class="figure">
+<img alt="Carlos Ribeiro - RadioTray" src="http://castalio.info/images/carlosribeiro.jpg" />
+<p class="caption">Carlos Ribeiro - RadioTray</p>
+</div>
+<p>O entrevistado de hoje é o português <strong>Carlos Ribeiro</strong>, desenvolvedor
+do projeto <strong>RadioTray</strong>, um programa bem leve e simples para escutar
+estações de rádio online. Durante nosso bate-papo conversamos sobre a
+criação e o crescimento de seu projeto, sobre aprendendo a programar com
+<strong>python</strong>, como o&nbsp;<strong>software ...</strong></p>]]></description><pubDate>Sun, 21 Aug 2011 21:03:00 -0400</pubDate><title>Carlos Ribeiro - RadioTray</title><itunes:summary>Carlos Ribeiro - RadioTray O entrevistado de hoje é o português Carlos Ribeiro, desenvolvedor do projeto RadioTray, um programa bem leve e simples para escutar estações de rádio online. Durante nosso bate-papo conversamos sobre a criação e o crescimento de seu projeto, sobre aprendendo a programar com python, como o software ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/carlos-ribeiro-radiotray.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-15/castalio-podcast-15.mp3"></enclosure></item><item><guid>http://castalio.info/hugo-doria-arch-linux.html</guid><description><![CDATA[<div class="figure">
+<img alt="Hugo Dória - Arch Linux" src="http://castalio.info/images/hugodoria.png" />
+<p class="caption">Hugo Dória - Arch Linux</p>
+</div>
+<p>O meu entrevistado de hoje é o <a class="reference external" href="http://hdoria.com/">Hugo Dória</a>, que para mim foi por muito tempo
+sinônimo do <a class="reference external" href="http://www.archlinux.org/">Arch Linux</a> no Brasil. Durante nosso bate-papo conversamos sobre
+sua história pelo Arch, alguns dos seus projetos de segurança e alerta de
+atualizações, e como que ele deixou ...</p>]]></description><pubDate>Mon, 08 Aug 2011 02:15:00 -0400</pubDate><title>Hugo Dória - Arch Linux</title><itunes:summary>Hugo Dória - Arch Linux O meu entrevistado de hoje é o Hugo Dória, que para mim foi por muito tempo sinônimo do Arch Linux no Brasil. Durante nosso bate-papo conversamos sobre sua história pelo Arch, alguns dos seus projetos de segurança e alerta de atualizações, e como que ele deixou ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/hugo-doria-arch-linux.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-14/castalio-podcast-14.mp3"></enclosure></item><item><guid>http://castalio.info/aline-duarte-bessa-accerciser.html</guid><description><![CDATA[<div class="figure">
+<img alt="Aline Duarte Bessa - Accerciser" src="http://castalio.info/images/alinebessa.jpg" />
+<p class="caption">Aline Duarte Bessa - Accerciser</p>
+</div>
+<p>Neste episódio bato um papo com a <strong>Aline Duarte Bessa</strong>, mais uma
+Brasileira que está participando do <a class="reference external" href="http://live.gnome.org/GnomeWomen/OutreachProgram2011">GNOME Women Outreach Program</a>
+(<strong>GWOP</strong>). Mesmo com um pouco de febre, gripe, e problemas técnicos com
+2 de seus computadores, ela tirou um pouco do seu tempo para me ...</p>]]></description><pubDate>Mon, 25 Jul 2011 00:00:00 -0400</pubDate><title>Aline Duarte Bessa - Accerciser</title><itunes:summary>Aline Duarte Bessa - Accerciser Neste episódio bato um papo com a Aline Duarte Bessa, mais uma Brasileira que está participando do GNOME Women Outreach Program (GWOP). Mesmo com um pouco de febre, gripe, e problemas técnicos com 2 de seus computadores, ela tirou um pouco do seu tempo para me ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/aline-duarte-bessa-accerciser.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-13/castalio-podcast-13.mp3"></enclosure></item><item><guid>http://castalio.info/igor-pires-soares-projeto-fedora.html</guid><description><![CDATA[<div class="figure">
+<img alt="Igor Soares - Projeto Fedora" src="http://castalio.info/images/igorsoares.png" />
+<p class="caption">Igor Soares - Projeto Fedora</p>
+</div>
+<p><strong>UPDATE</strong>: &nbsp;Peço desculpas pelo problema de áudio que o último
+episódio teve... isso que dá editar a entrevista tarde da noite! :)
+Por favor baixar novamente e espero que curtam bastante a
+entrevista!</p>
+<p>No episódio de hoje tive o privilégio de conversar com o <strong>Igor Pires
+Soares ...</strong></p>]]></description><pubDate>Mon, 11 Jul 2011 00:00:00 -0400</pubDate><title>Igor Pires Soares - Projeto Fedora</title><itunes:summary>Igor Soares - Projeto Fedora UPDATE:  Peço desculpas pelo problema de áudio que o último episódio teve... isso que dá editar a entrevista tarde da noite! :) Por favor baixar novamente e espero que curtam bastante a entrevista! No episódio de hoje tive o privilégio de conversar com o Igor Pires Soares ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/igor-pires-soares-projeto-fedora.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-12/castalio-podcast-12.mp3"></enclosure></item><item><guid>http://castalio.info/lucas-rocha-the-board-parte-2.html</guid><description><![CDATA[<div class="figure">
+<img alt="Lucas Rocha - The Board" src="http://castalio.info/images/lucasrocha.jpg" />
+<p class="caption">Lucas Rocha - The Board</p>
+</div>
+<p>Esta é a segunda parte da minha entrevista com o <strong>Lucas Rocha</strong>,
+contribuinte super conhecido do projeto <strong>GNOME</strong>. Desta vez conversamos
+sobre a experiência de viver fora do Brasil e algumas coisas engraçadas
+que só acontecem com quem muda para o exterior. Também conversamos sobre
+seu ...</p>]]></description><pubDate>Mon, 04 Jul 2011 00:00:00 -0400</pubDate><title>Lucas Rocha - The Board (Parte 2)</title><itunes:summary>Lucas Rocha - The Board Esta é a segunda parte da minha entrevista com o Lucas Rocha, contribuinte super conhecido do projeto GNOME. Desta vez conversamos sobre a experiência de viver fora do Brasil e algumas coisas engraçadas que só acontecem com quem muda para o exterior. Também conversamos sobre seu ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/lucas-rocha-the-board-parte-2.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-11/castalio-podcast-11.mp3"></enclosure></item><item><guid>http://castalio.info/lucas-rocha-the-board-parte-1.html</guid><description><![CDATA[<div class="figure">
+<img alt="Lucas Rocha - The Board" src="http://castalio.info/images/lucasrocha.jpg" />
+<p class="caption">Lucas Rocha - The Board</p>
+</div>
+<p>Neste episódio tive o prazer de conversar (por um bom tempo) com o
+<strong>Lucas Rocha</strong>, contribuinte super conhecido do projeto <strong>GNOME</strong>.
+Durante quase 2 horas conversamos sobre milhões de coisas, como que aos
+<strong>13 anos de idade</strong> ele já participava de uma banda cover do <strong>Guns ...</strong></p>]]></description><pubDate>Sun, 26 Jun 2011 22:15:00 -0400</pubDate><title>Lucas Rocha - The Board (Parte 1)</title><itunes:summary>Lucas Rocha - The Board Neste episódio tive o prazer de conversar (por um bom tempo) com o Lucas Rocha, contribuinte super conhecido do projeto GNOME. Durante quase 2 horas conversamos sobre milhões de coisas, como que aos 13 anos de idade ele já participava de uma banda cover do Guns ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/lucas-rocha-the-board-parte-1.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-10/castalio-podcast-10.mp3"></enclosure></item><item><guid>http://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html</guid><description><![CDATA[<div class="figure">
+<img alt="Johan Dahlin - Stoq: Gestor Comercial Livre" src="http://castalio.info/images/johandahlin.jpg" />
+<p class="caption">Johan Dahlin - Stoq: Gestor Comercial Livre</p>
+</div>
+<p>Hoje o meu convidado é o <a class="reference external" href="blogs.gnome.org/johan">Johan Dahlin</a>, um dos programadores do mundo do
+software livre &nbsp;que eu mais admiro! O Johan nasceu na <strong>Suécia</strong> mas mora no
+Brasil desde 2004. No currículo dele temos participações em várias companhias
+de nome no mundo do ...</p>]]></description><pubDate>Sun, 12 Jun 2011 21:31:00 -0400</pubDate><title>Johan Dahlin - Stoq: Gestor Comercial Livre</title><itunes:summary>Johan Dahlin - Stoq: Gestor Comercial Livre Hoje o meu convidado é o Johan Dahlin, um dos programadores do mundo do software livre  que eu mais admiro! O Johan nasceu na Suécia mas mora no Brasil desde 2004. No currículo dele temos participações em várias companhias de nome no mundo do ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/johan-dahlin-stoq-gestor-comercial-livre.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-09/castalio-podcast-09.mp3"></enclosure></item><item><guid>http://castalio.info/yuri-malheiros-engenharia-de-software-e-inteligencia-artificial.html</guid><description><![CDATA[<div class="figure">
+<img alt="Yuri Malheiros - Engenharia de Software e Inteligência" src="http://castalio.info/images/yurimalheiros.jpg" />
+<p class="caption">Artificial</p>
+<div class="legend">
+Yuri Malheiros - Engenharia de Software e Inteligência Artificial</div>
+</div>
+<p>Desta vez o convidado deste episódio não é de Belo Horizonte! :) Durante
+uma quinta-feira nublada em North Carolina, tive uma chance de conversar
+com o <strong>Yuri Malheiros</strong>, professor do <strong>IFPB</strong>, pesquisador em
+<strong>engenharia de software</strong> e <strong>inteligência artificial</strong>, e criador de ...</p>]]></description><pubDate>Mon, 30 May 2011 01:48:00 -0400</pubDate><title>Yuri Malheiros - Engenharia de Software e Inteligência Artificial</title><itunes:summary>Artificial Yuri Malheiros - Engenharia de Software e Inteligência Artificial Desta vez o convidado deste episódio não é de Belo Horizonte! :) Durante uma quinta-feira nublada em North Carolina, tive uma chance de conversar com o Yuri Malheiros, professor do IFPB, pesquisador em engenharia de software e inteligência artificial, e criador de ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/yuri-malheiros-engenharia-de-software-e-inteligencia-artificial.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-08/castalio-podcast-08.mp3"></enclosure></item><item><guid>http://castalio.info/frederico-goncalves-guimaraes-software-livre-educacional.html</guid><description><![CDATA[<div class="figure">
+<img alt="Frederico Gonçalves Guimaraes" src="http://castalio.info/images/fredericoguimaraes.jpg" />
+<p class="caption">Frederico Gonçalves Guimaraes</p>
+</div>
+<p>Neste episódio conversei com o <strong>Frederico Gonçalves Guimaraes</strong> do
+projeto <a class="reference external" href="http://sleducacional.org/">Software Livre Educacional</a>, que
+tem&nbsp;como objetivo principal organizar documentação e traduzir softwares
+livres que possam ser utilizados por educadores. Durante nosso bate-papo
+o Frederico me explica o quanto é importante difundir o software livre
+entre os ...</p>]]></description><pubDate>Thu, 12 May 2011 23:31:00 -0400</pubDate><title>Frederico Gonçalves Guimaraes - Software Livre Educacional</title><itunes:summary>Frederico Gonçalves Guimaraes Neste episódio conversei com o Frederico Gonçalves Guimaraes do projeto Software Livre Educacional, que tem como objetivo principal organizar documentação e traduzir softwares livres que possam ser utilizados por educadores. Durante nosso bate-papo o Frederico me explica o quanto é importante difundir o software livre entre os ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/frederico-goncalves-guimaraes-software-livre-educacional.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-07/castalio-podcast-07.mp3"></enclosure></item><item><guid>http://castalio.info/diego-burigo-zacarao-projeto-transifex.html</guid><description><![CDATA[<div class="figure">
+<img alt="Transifex" src="http://castalio.info/images/transifex.png" />
+<p class="caption">Transifex</p>
+</div>
+<p>Neste episódio, depois de semanas de muito suor, sangue e lágrimas (todas
+minhas, te garanto), consegui finalmente raptar o <a class="reference external" href="http://diegobz.net/">Diego Búrigo Zacarão</a>,
+desenvolvedor líder do projeto <a class="reference external" href="http://transifex.net">Transifex</a>, uma ferramente que nasceu durante
+uma das edições do <a class="reference external" href="https://code.google.com/soc/">Google Summer of Code</a>. Durante nosso bate-papo
+o <strong>Diego</strong> explica como que ele ...</p>]]></description><pubDate>Sat, 30 Apr 2011 15:29:00 -0400</pubDate><title>Diego Búrigo Zacarão - Projeto Transifex</title><itunes:summary>Transifex Neste episódio, depois de semanas de muito suor, sangue e lágrimas (todas minhas, te garanto), consegui finalmente raptar o Diego Búrigo Zacarão, desenvolvedor líder do projeto Transifex, uma ferramente que nasceu durante uma das edições do Google Summer of Code. Durante nosso bate-papo o Diego explica como que ele ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/diego-burigo-zacarao-projeto-transifex.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-06/castalio-podcast-06.mp3"></enclosure></item><item><guid>http://castalio.info/murilo-queiroz-em-busca-dos-tesouros.html</guid><description><![CDATA[<div class="figure">
+<img alt="Em Busca dos Tesouros" src="http://castalio.info/images/muriloqueiroz.png" />
+<p class="caption">Em Busca dos Tesouros</p>
+</div>
+<p>Neste último episódio tive um bate-papo super divertido com o <strong>Murilo
+Queiroz</strong>, sobre &quot;<strong>Em Busca dos Tesouros</strong>&quot;, um joguinho de
+computador feito por um garoto Brasileiro de 16 anos há mais de 20 anos,
+e como que um passeio por um museu em Londres foi o ...</p>]]></description><pubDate>Sat, 16 Apr 2011 16:46:00 -0400</pubDate><title>Murilo Queiroz - Em Busca dos Tesouros</title><itunes:summary>Em Busca dos Tesouros Neste último episódio tive um bate-papo super divertido com o Murilo Queiroz, sobre "Em Busca dos Tesouros", um joguinho de computador feito por um garoto Brasileiro de 16 anos há mais de 20 anos, e como que um passeio por um museu em Londres foi o ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/murilo-queiroz-em-busca-dos-tesouros.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-05/castalio-podcast-05.mp3"></enclosure></item><item><guid>http://castalio.info/luciana-fujii-pontelo-gnome-women-outreach-program.html</guid><description><![CDATA[<div class="figure">
+<img alt="GNOME Women Outreach Program" src="http://castalio.info/images/lucianapontelo.png" />
+<p class="caption">GNOME Women Outreach Program</p>
+</div>
+<p>Neste episódio tive a oportunidade de entrevistar a <strong>Luciana Fujii
+Pontelo</strong>, uma das duas brasileiras que participaram do&nbsp;último <strong>GNOME
+Women Outreach Program</strong>. Apesar de não poder contar com meu co-piloto,
+<strong>Evandro Pastor</strong>, que está com problemas de saúde, e do meu
+pouquíssimo conhecimento sobre edição ...</p>]]></description><pubDate>Sun, 03 Apr 2011 23:55:00 -0400</pubDate><title>Luciana Fujii Pontelo - GNOME Women Outreach Program</title><itunes:summary>GNOME Women Outreach Program Neste episódio tive a oportunidade de entrevistar a Luciana Fujii Pontelo, uma das duas brasileiras que participaram do último GNOME Women Outreach Program. Apesar de não poder contar com meu co-piloto, Evandro Pastor, que está com problemas de saúde, e do meu pouquíssimo conhecimento sobre edição ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/luciana-fujii-pontelo-gnome-women-outreach-program.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-04/castalio-podcast-04.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-2-kurtkraut.html</guid><description><![CDATA[<div class="figure">
+<img alt="KurtKraut" src="http://castalio.info/images/kurtkraut.png" />
+<p class="caption">KurtKraut</p>
+</div>
+<p>Neste episódio tivemos a grande honra de entrevistar nosso amigo
+<strong>KurtKraut</strong>, usuario de <strong>BBS</strong> e <strong>IRC</strong> desde 1994, autodidata nas
+áreas de psicologia, sociologia, filosofia e conhecido professor de
+Biologia geek (por que assim você tem&nbsp;permissao de falar sobre <strong>sexo,
+drogas e rock'n'roll</strong>)!</p>
+<p>Nesta entrevista, o ...</p>]]></description><pubDate>Mon, 21 Mar 2011 12:24:00 -0400</pubDate><title>Episódio 2: KurtKraut</title><itunes:summary>KurtKraut Neste episódio tivemos a grande honra de entrevistar nosso amigo KurtKraut, usuario de BBS e IRC desde 1994, autodidata nas áreas de psicologia, sociologia, filosofia e conhecido professor de Biologia geek (por que assim você tem permissao de falar sobre sexo, drogas e rock'n'roll)! Nesta entrevista, o ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-2-kurtkraut.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-03/castalio-podcast-03.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-1-karlisson-bezerra-ilustrador.html</guid><description><![CDATA[<p>Em um sábado ensolarado&nbsp;(aqui em North Carolina pelo menos, não sei em Natal ou
+São Paulo) tivemos o prazer de conversar com o <strong>Karlisson Bezerra</strong>,
+desenvolvedor web e&nbsp;ilustrador do famoso <a class="reference external" href="http://nerdson.com/blog/">Nerdson não vai à Escola</a>.</p>
+<div class="figure">
+<img alt="Sr. Tartaruga" src="http://castalio.info/images/karlissonbezerra.jpg" />
+<p class="caption">Sr. Tartaruga</p>
+</div>
+<p>Durante nosso bate-papo conversamos sobre o <strong>Sr. Tartaruga</strong>, <strong>Tio
+Patinhas</strong>,&nbsp;<strong>1001 ...</strong></p>]]></description><pubDate>Mon, 07 Mar 2011 00:00:00 -0500</pubDate><title>Episódio 1: Karlisson Bezerra, Ilustrador</title><itunes:summary>Em um sábado ensolarado (aqui em North Carolina pelo menos, não sei em Natal ou São Paulo) tivemos o prazer de conversar com o Karlisson Bezerra, desenvolvedor web e ilustrador do famoso Nerdson não vai à Escola. Sr. Tartaruga Durante nosso bate-papo conversamos sobre o Sr. Tartaruga, Tio Patinhas, 1001 ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-1-karlisson-bezerra-ilustrador.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-02/castalio-podcast-02.mp3"></enclosure></item><item><guid>http://castalio.info/episodio-zero-og-maciel.html</guid><description><![CDATA[<div class="figure">
+<img alt="Episódio Zero" src="http://castalio.info/images/episodiozero.jpg" />
+<p class="caption">Episódio Zero</p>
+</div>
+<p>Apresentando o primeiro episódio do <strong>Castalio</strong>. O entrevistado neste episódio
+é o <a class="reference external" href="http://www.ogmaciel.com">Og Maciel</a>, conhecido contribuinte do mundo do software livre, e atual
+membro da mesa diretora do <strong>GNOME Foundation</strong>. Por este ter sido o primeiro
+episódio, abusamos do Og e perguntamos várias coisas sobre assuntos variádos,
+como ...</p>]]></description><pubDate>Wed, 16 Feb 2011 15:07:00 -0500</pubDate><title>Episódio Zero: Og Maciel</title><itunes:summary>Episódio Zero Apresentando o primeiro episódio do Castalio. O entrevistado neste episódio é o Og Maciel, conhecido contribuinte do mundo do software livre, e atual membro da mesa diretora do GNOME Foundation. Por este ter sido o primeiro episódio, abusamos do Og e perguntamos várias coisas sobre assuntos variádos, como ...</itunes:summary><itunes:author>Og Maciel</itunes:author><link>http://castalio.info/episodio-zero-og-maciel.html</link><enclosure type="audio/mpeg" url="https://archive.org/download/castalio-podcast-01/castalio-podcast-01.mp3"></enclosure></item></channel></rss>

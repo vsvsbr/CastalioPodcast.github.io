@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<html lang="pt"
+>
+<head>
+    <title>Rodrigo Novo: Conectiva Linux - Castálio Podcast</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href="http://castalio.info/images/favicon.ico" rel="icon">
+
+<link rel="canonical" href="http://castalio.info/rodrigo-novo-conectiva-linux.html">
+
+        <meta name="author" content="Og Maciel" />
+        <meta name="keywords" content="anaconda installer,arnaldo "pacman",aurélio "verde" jargas,caldera graphical installer,caldera linux,canonical,conectiva linux,cvs,dos,edubuntu,frank sinatra,gcc,googleplex,imdb.com,indt,jeff hwang,kde,linux br,livraria saraiva,mandrake linux,mandriva linux,marcelo tosatti,midnight commander,minilinux,mountain view,nfs,nina simone,open linux,parolin linux,pot-limit omaha poker,qt,red hat linux,rpm,silicon valley,slackware linux,texas holden poker,tftp,the shawshank redemption,ubuntu developers summit,universidade federal de santa catarina,venture capital" />
+        <meta name="description" content="Rodrigo Novo Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último de 2011)! Dando continuidade à proposta de trazer mais uma entrevista com uma personalidade do Conectiva Linux, desta vez tenho o prazer de apresentar a vocês o Rodrigo Novo! Durante nosso bate-papo ele conta ..." />
+
+        <meta property="og:site_name" content="Castálio Podcast" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Rodrigo Novo: Conectiva Linux"/>
+        <meta property="og:url" content="http://castalio.info/rodrigo-novo-conectiva-linux.html"/>
+        <meta property="og:description" content="Rodrigo Novo Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último de 2011)! Dando continuidade à proposta de trazer mais uma entrevista com uma personalidade do Conectiva Linux, desta vez tenho o prazer de apresentar a vocês o Rodrigo Novo! Durante nosso bate-papo ele conta ..."/>
+        <meta property="article:published_time" content="2011-12-26" />
+            <meta property="article:section" content="Podcast" />
+            <meta property="article:tag" content="anaconda installer" />
+            <meta property="article:tag" content="arnaldo "pacman"" />
+            <meta property="article:tag" content="aurélio "verde" jargas" />
+            <meta property="article:tag" content="caldera graphical installer" />
+            <meta property="article:tag" content="caldera linux" />
+            <meta property="article:tag" content="canonical" />
+            <meta property="article:tag" content="conectiva linux" />
+            <meta property="article:tag" content="cvs" />
+            <meta property="article:tag" content="dos" />
+            <meta property="article:tag" content="edubuntu" />
+            <meta property="article:tag" content="frank sinatra" />
+            <meta property="article:tag" content="gcc" />
+            <meta property="article:tag" content="googleplex" />
+            <meta property="article:tag" content="imdb.com" />
+            <meta property="article:tag" content="indt" />
+            <meta property="article:tag" content="jeff hwang" />
+            <meta property="article:tag" content="kde" />
+            <meta property="article:tag" content="linux br" />
+            <meta property="article:tag" content="livraria saraiva" />
+            <meta property="article:tag" content="mandrake linux" />
+            <meta property="article:tag" content="mandriva linux" />
+            <meta property="article:tag" content="marcelo tosatti" />
+            <meta property="article:tag" content="midnight commander" />
+            <meta property="article:tag" content="minilinux" />
+            <meta property="article:tag" content="mountain view" />
+            <meta property="article:tag" content="nfs" />
+            <meta property="article:tag" content="nina simone" />
+            <meta property="article:tag" content="open linux" />
+            <meta property="article:tag" content="parolin linux" />
+            <meta property="article:tag" content="pot-limit omaha poker" />
+            <meta property="article:tag" content="qt" />
+            <meta property="article:tag" content="red hat linux" />
+            <meta property="article:tag" content="rpm" />
+            <meta property="article:tag" content="silicon valley" />
+            <meta property="article:tag" content="slackware linux" />
+            <meta property="article:tag" content="texas holden poker" />
+            <meta property="article:tag" content="tftp" />
+            <meta property="article:tag" content="the shawshank redemption" />
+            <meta property="article:tag" content="ubuntu developers summit" />
+            <meta property="article:tag" content="universidade federal de santa catarina" />
+            <meta property="article:tag" content="venture capital" />
+            <meta property="article:author" content="Og Maciel" />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="http://castalio.info/theme/css/bootstrap.min.css" type="text/css"/>
+    <link href="http://castalio.info/theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="http://castalio.info/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://castalio.info/theme/css/style.css" type="text/css"/>
+
+        <link href="http://castalio.info/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Castálio Podcast ATOM Feed"/>
+        <link href="http://castalio.info/feeds.rss" type="application/rss+xml" rel="alternate"
+              title="Castálio Podcast RSS Feed"/>
+
+</head>
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="http://castalio.info/" class="navbar-brand">
+Castálio Podcast            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                         <li><a href="http://castalio.info/sobre-o-castalio.html">
+                             Sobre
+                          </a></li>
+                        <li >
+                            <a href="http://castalio.info/category/noticia.html">Notícia</a>
+                        </li>
+                        <li class="active">
+                            <a href="http://castalio.info/category/podcast.html">Podcast</a>
+                        </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="http://castalio.info/archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 col-sm-push-9" id="sidebar">
+            <aside>
+
+    <div id="sidebar-brand" class="sidebar-brand text-center">
+        <a href="http://castalio.info">
+            <img height="300"  alt="Castálio Podcast" src="http://castalio.info/images/castalio-podcast.png">
+        </a>
+
+        <p class="text-muted">Um podcast inspirado prá castálio!</p>
+    </div>
+
+<section class="well well-sm hidden-xs">
+    <ul class="list-group list-group-flush">
+            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
+              <ul class="list-group" id="social">
+                <li class="list-group-item"><a href="https://github.com/CastalioPodcast/CastalioPodcast.github.io" title="GitHub"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                <li class="list-group-item"><a href="https://twitter.com/castaliopod" title="Twitter"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                <li class="list-group-item"><a href="https://facebook.com/castaliopod" title="Facebook"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                <li class="list-group-item"><a href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197" title="iTunes"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                <li class="list-group-item"><a href="http://feeds.feedburner.com/CastalioPodcastMP3" title="RSS Feed"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+              </ul>
+            </li>
+
+
+
+            <li class="list-group-item"><a href="http://castalio.info/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+                <ul class="list-group list-inline tagcloud" id="tags">
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/red-hat.html">
+                            red hat
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/rafael-rosa-fu.html">
+                            rafael rosa fu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/debian-linux.html">
+                            debian linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/transifex.html">
+                            transifex
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/pearl-jam.html">
+                            pearl jam
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/launchpad.html">
+                            launchpad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/google.html">
+                            google
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/ubuntu-brasil.html">
+                            ubuntu brasil
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/edubuntu.html">
+                            edubuntu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/rdio.html">
+                            rdio
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/hack-n-cast.html">
+                            hack 'n' cast
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/elvis-presley.html">
+                            elvis presley
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/grokpodcast.html">
+                            grokpodcast
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/sushi.html">
+                            sushi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/paypal.html">
+                            paypal
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/iweb-hosting.html">
+                            iweb hosting
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/emerson-soares.html">
+                            emerson soares
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/star-wars.html">
+                            star wars
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/jack-johnson.html">
+                            jack johnson
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/plasma.html">
+                            plasma
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/yipit.html">
+                            yipit
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/att.html">
+                            at&t
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/john-williams.html">
+                            John Williams
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/foresight-linux.html">
+                            foresight linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/matrix.html">
+                            matrix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/kde.html">
+                            kde
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/luciano-ramalho.html">
+                            Luciano Ramalho
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/breaking-bad.html">
+                            breaking bad
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/natal.html">
+                            natal
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/rework.html">
+                            rework
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/wikipedia.html">
+                            wikipedia
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/ruby-on-rails.html">
+                            ruby on rails
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/mac-os.html">
+                            mac os
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://castalio.info/tag/python.html">
+                            python
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/windows.html">
+                            windows
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/erlang.html">
+                            erlang
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/nodejs.html">
+                            nodejs
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/gnulinux.html">
+                            gnu/linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/ruby.html">
+                            ruby
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/att-latin-america.html">
+                            at&t latin america
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/twitter.html">
+                            twitter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/scala.html">
+                            scala
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/xfce.html">
+                            xfce
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/google-maps.html">
+                            google maps
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/nirvana.html">
+                            nirvana
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/iphone.html">
+                            iphone
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/fisl.html">
+                            fisl
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/gnome.html">
+                            gnome
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/delphi.html">
+                            delphi
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/itunes.html">
+                            itunes
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/guadec.html">
+                            guadec
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/daft-punk.html">
+                            daft punk
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/iron-maiden.html">
+                            iron maiden
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/forrest-gump.html">
+                            forrest gump
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/ghost-in-the-shell.html">
+                            ghost in the shell
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/spotify.html">
+                            spotify
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/the-big-bang-theory.html">
+                            the big bang theory
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/selenium.html">
+                            selenium
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/richard-stallman.html">
+                            richard stallman
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/facebook.html">
+                            facebook
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/miguel-de-icaza.html">
+                            miguel de icaza
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/android.html">
+                            android
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/fabio-nogueira.html">
+                            fábio nogueira
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/o-senhor-dos-aneis.html">
+                            o senhor dos anéis
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/red-hat-linux.html">
+                            red hat linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/f-scott-fitzgerald.html">
+                            F. Scott Fitzgerald
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/javascript.html">
+                            javascript
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/php.html">
+                            php
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/vale-do-silicio.html">
+                            vale do silício
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/google-summer-of-code.html">
+                            google summer of code
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/pamela-paul.html">
+                            Pamela Paul
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/railsconf.html">
+                            railsconf
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/wordpress.html">
+                            wordpress
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/inception.html">
+                            inception
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/gabriel-falcao.html">
+                            gabriel falcão
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/u2.html">
+                            u2
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/git.html">
+                            git
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/qt.html">
+                            qt
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/flask.html">
+                            flask
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/the-walking-dead.html">
+                            the walking dead
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/c.html">
+                            c++
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/skype.html">
+                            skype
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/podcast.html">
+                            podcast
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/arthur-conan-doyle.html">
+                            Arthur Conan Doyle
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/jquery.html">
+                            jquery
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/dreamhost.html">
+                            dreamhost
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/youtube.html">
+                            youtube
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/flavio-ribeiro.html">
+                            flávio ribeiro
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/flannery-oconnor.html">
+                            Flannery O'Connor
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/arch-linux.html">
+                            arch linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/linkedin.html">
+                            linked.in
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/gtk.html">
+                            gtk
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/harry-potter.html">
+                            harry potter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/pandora.html">
+                            pandora
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/br-linux.html">
+                            br-linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/rpath.html">
+                            rpath
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/ubuntu.html">
+                            ubuntu
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/netflix.html">
+                            netflix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/the-it-crowd.html">
+                            the it crowd
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/splinter.html">
+                            splinter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/inkscape.html">
+                            inkscape
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/mongodb.html">
+                            mongodb
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/anton-chekhov.html">
+                            Anton Chekhov
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/the-matrix.html">
+                            the
+matrix
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://castalio.info/tag/github.html">
+                            github
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/game-of-thrones.html">
+                            game of thrones
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/fedora-linux.html">
+                            fedora linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/audacity.html">
+                            audacity
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/arduino.html">
+                            arduino
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/sociably.html">
+                            sociably
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-1">
+                        <a href="http://castalio.info/tag/ubuntu-linux.html">
+                            ubuntu linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/windows-8.html">
+                            windows 8
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/projeto-gnome.html">
+                            projeto gnome
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/conectiva-linux.html">
+                            conectiva linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/metallica.html">
+                            metallica
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/marcelo-hashimoto.html">
+                            marcelo hashimoto
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/henrique-bastos.html">
+                            henrique bastos
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4">
+                        <a href="http://castalio.info/tag/kindle.html">
+                            kindle
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/canonical.html">
+                            canonical
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/dexter.html">
+                            dexter
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/django.html">
+                            django
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/neal-stephenson.html">
+                            Neal Stephenson
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/andrews-medina.html">
+                            andrews medina
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-2">
+                        <a href="http://castalio.info/tag/slackware-linux.html">
+                            slackware linux
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/julio-monteiro.html">
+                            júlio monteiro
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/acdc.html">
+                            ac/dc
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/net.html">
+                            .net
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/douglas-adams.html">
+                            Douglas Adams
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/de-volta-para-o-futuro.html">
+                            de volta para o futuro
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/carlosbrando-os.html">
+                            carlosbrando os
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/o-poderoso-chefao.html">
+                            o poderoso chefão
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/jason-fried.html">
+                            jason fried
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/google-hangout.html">
+                            google hangout
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/globocom.html">
+                            globo.com
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/raul-seixas.html">
+                            raul seixas
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/gimp.html">
+                            gimp
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/jonh-wendell.html">
+                            jonh wendell
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/heroku.html">
+                            heroku
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/rails-podcast-brasil.html">
+                            rails podcast brasil
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-3">
+                        <a href="http://castalio.info/tag/java.html">
+                            java
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/activerecord.html">
+                            activerecord
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/vim.html">
+                            vim
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/libre-office.html">
+                            libre office
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/nick-hornby.html">
+                            Nick Hornby
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/the-strokes.html">
+                            the strokes
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/carlos-ribeiro.html">
+                            carlos ribeiro
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/bolacha.html">
+                            bolacha
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/mysql.html">
+                            mysql
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-6">
+                        <a href="http://castalio.info/tag/livraria-saraiva.html">
+                            livraria saraiva
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-5">
+                        <a href="http://castalio.info/tag/ray-bradbury.html">
+                            Ray Bradbury
+                        </a>
+                    </li>
+                </ul>
+            </li>
+    </ul>
+</section>            </aside>
+        </div>
+
+        <div class="col-sm-9 col-sm-pull-3">
+    <section id="content">
+        <article>
+            <header class="page-header">
+                <h1>
+                    <a href="http://castalio.info/rodrigo-novo-conectiva-linux.html"
+                       rel="bookmark"
+                       title="Permalink to Rodrigo Novo: Conectiva Linux">
+                        Rodrigo Novo: Conectiva Linux
+                    </a>
+                </h1>
+                <div class="panel-body">
+<footer class="post-info">
+    <span class="published">
+        <span class="label label-default">Data</span>
+        <time datetime="2011-12-26T18:16:00-05:00">Mon 26 December 2011</time>
+    </span>
+        <span class="authors">
+            <span class="label label-default">Autor</span>
+                <a href="http://castalio.info/author/og-maciel.html">Og Maciel</a>        </span>
+
+
+
+        <span class="comments-count">
+            <span class="label label-default">Comentários</span>
+<a href="http://castalio.info/rodrigo-novo-conectiva-linux.html#disqus_thread" data-disqus-identifier="rodrigo-novo-conectiva-linux">View comments</a>.        </span>
+
+        <span class="podcast-download-count">
+            <span class="label label-default">Downloads</span>
+            <span id="download-count">-</span>
+        </span>
+
+
+    
+</footer><!-- /.post-info -->                </div>
+            </header>
+            <div class="entry-content">
+                <div class="figure">
+<img alt="Rodrigo Novo" src="http://castalio.info/images/rodrigonovo.png" />
+<p class="caption">Rodrigo Novo</p>
+</div>
+<p>Olá pessoal e seja muito bem-vindo à este episódio de natal (e o último
+de 2011)! Dando continuidade à proposta de trazer mais uma entrevista
+com uma personalidade do <strong>Conectiva Linux</strong>, desta vez tenho o prazer
+de apresentar a vocês o <strong>Rodrigo Novo</strong>! Durante nosso bate-papo ele
+conta como que largou a faculdade para entrar no Conectiva Linux em
+1997, trabalhando com o <strong>Aurélio &quot;verde&quot; Jargas</strong>, <strong>Marcelo Tosatti</strong>,
+entre outros na área de suporte, como que ele &quot;graduou&quot; para a equipe da
+distribuição, <strong>KDE 0.11</strong>, a história do &quot;<strong>easter egg</strong>&quot; que nunca
+foi publicado, onde será a próxima &quot;<strong>Silicon Valley</strong>&quot; brasileira, e
+seu interesse por <strong>poker</strong> e <strong>filmes clássicos</strong>!</p>
+<div class="section" id="escute-agora">
+<h2>Escute Agora</h2>
+
+        <div class="podcast text-center">
+            <iframe src="https://archive.org/embed/castalio-podcast-26" width="80%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+            <div class="podcast-download">
+                <span class="label label-success"><a href="https://archive.org/download/castalio-podcast-26/castalio-podcast-26.mp3"><i class="fa fa-download"></i> Download MP3</a></span>
+                <span class="label label-success"><a href="https://archive.org/download/castalio-podcast-26/castalio-podcast-26.ogg"><i class="fa fa-download"></i> Download OGG</a></span>
+                <span class="label label-success"><a href="https://archive.org/download/castalio-podcast-26/castalio-podcast-26.m4a"><i class="fa fa-download"></i> Download M4A</a></span>
+            </div>
+        </div>
+        </div>
+<div class="section" id="contato">
+<h2>Contato</h2>
+<ul class="simple">
+<li><strong>Linked.in</strong>:&nbsp; <a class="reference external" href="http://www.linkedin.com/in/rodarvus">http://www.linkedin.com/in/rodarvus</a></li>
+<li><strong>Facebook</strong>:&nbsp; <a class="reference external" href="https://www.facebook.com/rodarvus?ref=name">https://www.facebook.com/rodarvus?ref=name</a></li>
+<li><strong>Twitter</strong>:&nbsp; <a class="reference external" href="https://twitter.com/#!/rodarvus">https://twitter.com/#!/rodarvus</a></li>
+</ul>
+</div>
+<div class="section" id="resumo">
+<h2>Resumo</h2>
+<ul class="simple">
+<li><strong>Apresentação</strong> 01:08</li>
+<li><strong>Começando no Conectiva Linux</strong> 03:30</li>
+<li><strong>Um Pouco de Background</strong> 07:00</li>
+<li><strong>Primeira Tarefa</strong> 10:56</li>
+<li><strong>Trabalhando na Distribuição</strong> 14:06</li>
+<li><strong>A História do &quot;Easter Egg&quot;</strong> 15:49</li>
+<li><strong>Sobre o Dia a Dia</strong> 21:40</li>
+<li><strong>Próximo Silicon Valley no Brasil</strong> 25:37</li>
+<li><strong>Top 5</strong> 34:12</li>
+<li><strong>Conclusão</strong> 42:07</li>
+</ul>
+</div>
+<div class="section" id="top-5">
+<h2>Top 5</h2>
+<ul class="simple">
+<li><strong>Música:</strong> <a class="reference external" href="http://www.last.fm/search?q=Nina+Simone">Nina Simone</a></li>
+<li><strong>Música:</strong> <a class="reference external" href="http://www.last.fm/search?q=Frank+Sinatra">Frank Sinatra</a></li>
+<li><strong>Filmes:</strong> <a class="reference external" href="http://www.imdb.com/find?s=all&amp;q=The+Shawshank+Redemption">The Shawshank Redemption</a></li>
+<li><strong>Livros:</strong> <a class="reference external" href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Pot-Limit+Omaha+Poker">Pot-Limit Omaha Poker</a></li>
+<li><strong>Livros:</strong> <a class="reference external" href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Dstripbooks&amp;field-keywords=Advanced+Pot-Limit+OmahaÇ+Small+Ball+and+Short-Handed+Play">Advanced Pot-Limit Omaha: Small Ball and Short-Handed Play</a></li>
+</ul>
+</div>
+<div class="section" id="links">
+<h2>Links</h2>
+<ul class="simple">
+<li><a class="reference external" href="https://duckduckgo.com/?q=Conectiva+Linux">Conectiva Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Canonical">Canonical</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Ubuntu+Developers+Summit">Ubuntu Developers Summit</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Mountain+View">Mountain View</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Edubuntu">Edubuntu</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=GooglePlex">GooglePlex</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Linux+BR">Linux BR</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Arnaldo+">Arnaldo &quot;pacman&quot;</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Parolin+Linux">Parolin Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=MiniLinux">MiniLinux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=DOS">DOS</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=GCC">GCC</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Slackware+Linux">Slackware Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Red+Hat+Linux">Red Hat Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=KDE">KDE</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=RPM">RPM</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Midnight+Commander">Midnight Commander</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Caldera+Linux">Caldera Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Caldera+Graphical+Installer">Caldera Graphical Installer</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Qt">Qt</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Anaconda+Installer">Anaconda Installer</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=CVS">CVS</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=NFS">NFS</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=TFTP">TFTP</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Open+Linux">Open Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Silicon+Valley">Silicon Valley</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Venture+Capital">Venture Capital</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Mandrake+Linux">Mandrake Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Mandriva+Linux">Mandriva Linux</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Universidade+Federal+de+Santa+Catarina">Universidade Federal de Santa Catarina</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=INDT">INDT</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Livraria+Saráiva">Livraria Saráiva</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=IMDB.com">IMDB.com</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Texas+Holden+Poker">Texas Holden Poker</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Pot-Limit+Omaha+Poker">Pot-Limit Omaha Poker (DuckDuckGo)</a></li>
+<li><a class="reference external" href="https://duckduckgo.com/?q=Jeff+Hwang">Jeff Hwang</a></li>
+</ul>
+<p class="panel-body bg-info"><strong>Música</strong>: <a class="reference external" href="http://soundcloud.com/clebertsuconic/sunday-night-lerning">Sunday Night Learning</a> por <a class="reference external" href="http://soundcloud.com/clebertsuconic">Clebert Suconic</a>.*</p>
+</div>
+
+            </div>
+            <!-- /.entry-content -->
+<div class="well article-tags">
+    <span class="label label-default">Tags</span>
+        <a href="http://castalio.info/tag/anaconda-installer.html">anaconda installer</a>
+            /
+        <a href="http://castalio.info/tag/arnaldo-pacman.html">arnaldo "pacman"</a>
+            /
+        <a href="http://castalio.info/tag/aurelio-verde-jargas.html">aurélio "verde" jargas</a>
+            /
+        <a href="http://castalio.info/tag/caldera-graphical-installer.html">caldera graphical installer</a>
+            /
+        <a href="http://castalio.info/tag/caldera-linux.html">caldera linux</a>
+            /
+        <a href="http://castalio.info/tag/canonical.html">canonical</a>
+            /
+        <a href="http://castalio.info/tag/conectiva-linux.html">conectiva linux</a>
+            /
+        <a href="http://castalio.info/tag/cvs.html">cvs</a>
+            /
+        <a href="http://castalio.info/tag/dos.html">dos</a>
+            /
+        <a href="http://castalio.info/tag/edubuntu.html">edubuntu</a>
+            /
+        <a href="http://castalio.info/tag/frank-sinatra.html">frank sinatra</a>
+            /
+        <a href="http://castalio.info/tag/gcc.html">gcc</a>
+            /
+        <a href="http://castalio.info/tag/googleplex.html">googleplex</a>
+            /
+        <a href="http://castalio.info/tag/imdbcom.html">imdb.com</a>
+            /
+        <a href="http://castalio.info/tag/indt.html">indt</a>
+            /
+        <a href="http://castalio.info/tag/jeff-hwang.html">jeff hwang</a>
+            /
+        <a href="http://castalio.info/tag/kde.html">kde</a>
+            /
+        <a href="http://castalio.info/tag/linux-br.html">linux br</a>
+            /
+        <a href="http://castalio.info/tag/livraria-saraiva.html">livraria saraiva</a>
+            /
+        <a href="http://castalio.info/tag/mandrake-linux.html">mandrake linux</a>
+            /
+        <a href="http://castalio.info/tag/mandriva-linux.html">mandriva linux</a>
+            /
+        <a href="http://castalio.info/tag/marcelo-tosatti.html">marcelo tosatti</a>
+            /
+        <a href="http://castalio.info/tag/midnight-commander.html">midnight commander</a>
+            /
+        <a href="http://castalio.info/tag/minilinux.html">minilinux</a>
+            /
+        <a href="http://castalio.info/tag/mountain-view.html">mountain view</a>
+            /
+        <a href="http://castalio.info/tag/nfs.html">nfs</a>
+            /
+        <a href="http://castalio.info/tag/nina-simone.html">nina simone</a>
+            /
+        <a href="http://castalio.info/tag/open-linux.html">open linux</a>
+            /
+        <a href="http://castalio.info/tag/parolin-linux.html">parolin linux</a>
+            /
+        <a href="http://castalio.info/tag/pot-limit-omaha-poker.html">pot-limit omaha poker</a>
+            /
+        <a href="http://castalio.info/tag/qt.html">qt</a>
+            /
+        <a href="http://castalio.info/tag/red-hat-linux.html">red hat linux</a>
+            /
+        <a href="http://castalio.info/tag/rpm.html">rpm</a>
+            /
+        <a href="http://castalio.info/tag/silicon-valley.html">silicon valley</a>
+            /
+        <a href="http://castalio.info/tag/slackware-linux.html">slackware linux</a>
+            /
+        <a href="http://castalio.info/tag/texas-holden-poker.html">texas holden poker</a>
+            /
+        <a href="http://castalio.info/tag/tftp.html">tftp</a>
+            /
+        <a href="http://castalio.info/tag/the-shawshank-redemption.html">the shawshank redemption</a>
+            /
+        <a href="http://castalio.info/tag/ubuntu-developers-summit.html">ubuntu developers summit</a>
+            /
+        <a href="http://castalio.info/tag/universidade-federal-de-santa-catarina.html">universidade federal de santa catarina</a>
+            /
+        <a href="http://castalio.info/tag/venture-capital.html">venture capital</a>
+</div>
+    <hr/>
+    <section class="comments" id="comments">
+        <h2>Comments</h2>
+
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">
+            /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+            var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+                    var disqus_identifier = 'rodrigo-novo-conectiva-linux';
+                var disqus_url = 'http://castalio.info/rodrigo-novo-conectiva-linux.html';
+
+            var disqus_config = function () {
+                this.language = "pt";
+            };
+
+            /* * * DON'T EDIT BELOW THIS LINE * * */
+            (function () {
+                var dsq = document.createElement('script');
+                dsq.type = 'text/javascript';
+                dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+            Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+    </section>
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+<footer id="footer">
+   <div class="container">
+       <div class="row">
+           <div class="col-xs-2 col-xs-offset-10"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+       </div>
+
+       <div class="row">
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sobre</h4>
+               <p>
+               O Castálio Podcast é fruto da imaginação e curiosidade
+               incansável de Og Maciel, um brasileiro que desde 1991 mora nos
+               Estados Unidos mas que nunca deixou de prestigiar suas raizes!
+               Caso você tenha alguma sugestão para o nosso próximo convidado,
+               nos envie sua idéia para o nosso e-mail.
+               </p>
+               <a href="/sobre-o-castalio" class="btn btn-primary btn-sm">
+                   <i class="fa fa-info-circle"></i>  Saiba mais </a>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Social</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="GitHub" href="https://github.com/CastalioPodcast/CastalioPodcast.github.io"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
+                   <li><a title="Twitter" href="https://twitter.com/castaliopod"><i class="fa fa-twitter-square fa-lg"></i> Twitter</a></li>
+                   <li><a title="Facebook" href="https://facebook.com/castaliopod"><i class="fa fa-facebook-square fa-lg"></i> Facebook</a></li>
+                   <li><a title="iTunes" href="https://itunes.apple.com/br/podcast/castalio-podcast/id446259197"><i class="fa fa-apple fa-lg"></i> iTunes</a></li>
+                   <li><a title="RSS Feed" href="http://feeds.feedburner.com/CastalioPodcastMP3"><i class="fa fa-rss-square fa-lg"></i> RSS Feed</a></li>
+               </ul>
+           </div>
+
+           <div class="col-md-3 col-md-offset-1">
+               <h4>Sites Amigos</h4>
+               <ul id="footer-social" class="list-unstyled">
+                   <li><a title="Og Maciel" href="http://omaciel.github.io/">Og Maciel</a></li>
+                   <li><a title="OpenCast" href="http://tecnologiaaberta.com.br/category/opencast/">OpenCast</a></li>
+                   <li><a title="Grok Podcast" href="http://grokpodcast.com/">Grok Podcast</a></li>
+                   <li><a title="Hack 'n' Cast" href="http://hackncast.org"> Hack 'n' Cast</a></li>
+               </ul>
+           </div>
+       </div>
+      <div class="row footer-las-row">
+         <div class="col-xs-12">
+             <p>
+                &copy; 2011 - 2015 Og Maciel & Elyézer Rezende
+                &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+                <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
+                <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
+             </p>              <p><small>  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+    Content
+  licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution 4.0 International License</a>, except where indicated otherwise.
+</small></p>
+         </div>
+      </div>
+   </div>
+</footer>
+<script src="http://castalio.info/theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="http://castalio.info/theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="http://castalio.info/theme/js/respond.min.js"></script>
+
+    <!-- Disqus -->
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'castliopodcast'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function () {
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    </script>
+    <!-- End Disqus Code -->
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-21449168-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <!-- End Google Analytics Code -->
+
+        <script type="text/javascript">
+            function set_download_count(data) {
+                    $("#download-count").text(data.item.downloads);
+            }
+        </script>
+
+        <!-- archive meta -->
+        <script type="text/javascript" src="http://archive.org/details/castalio-podcast-26&callback=set_download_count?output=json"></script>
+</body>
+</html>
